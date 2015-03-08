@@ -28,8 +28,6 @@ with: 4.25 + 0.1325 + 4.25 = 8.6325 (+ 0.25 bleed = 8.8825")
 
 ## Pandoc
 
-![Alt text](//Users/ms/Pictures/Cam_Import/2015/2015-03-06/IMG_8897.JPG)
-
 Source: [http://johnmacfarlane.net/pandoc/](http://johnmacfarlane.net/pandoc/)
 
 ## TeX
