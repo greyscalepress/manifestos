@@ -1,0 +1,1 @@
+pandoc readme.md -f markdown -t epub -s -o readme.epub --template templates/custom

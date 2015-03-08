@@ -1,0 +1,24 @@
+# The Hardware Hacker Manifesto
+
+My name is Cody and I'm a hardware hacker. It started at the age of five, taking apart a toy computer to figure out how it worked. I live for that thrill of discovery and rush of power that I feel when I figure out what makes something tick, then figure out how to bend it to my will. This has led to me hacking everything from game consoles to phones.
+
+It used to be that this was what people did: if something was wrong with a device, it was acceptable to take it apart, figure out how it worked, and fix whatever was wrong with it. That's no longer the case; we're still there -- in growing numbers, to boot -- but what's changed is that it's no longer acceptable. As companies have made devices more and more locked down, making hardware hacking even more important than ever, there's a growing segment of the population that believes we're pirates. Who are we to modify these devices against the company's will?
+
+It all comes down to one simple question: once you've purchased something, do you own it? While this may seem like a silly question, it's the entire crux of the argument for hardware hacking. If you believe that the purchaser owns the good, then they have the right to do with it what they want.
+
+I exercise that right on a daily basis, whether with my jailbroken phone, my Wii running homebrew media player software, or -- now -- my hacked brain-computer interface. The last case is interesting, because it's the first time I've ever been called a pirate by a representative of the company producing the hardware I hacked:
+
+> Piracy is a vexed question but in its worst form it is still basically taking what someone has spent a lot of time and money on, and denying them some or all of the rewards for doing it. If the developer is being reasonable about it then it's tough to justify piracy. It costs a lot to get something developed and into the market, and next to nothing to copy or crack it. It discourages people from taking the risks in the first place, and we're all the poorer for the things that didn't get done because they would be too easy to steal.
+
+In this case, I purchased a brain-computer interface outright, then proceeded to reverse-engineer it and release details of how to communicate with it. In the week since I released this, I've been called a selfish pirate more than I'd like to recall. All of this because I decided to exercise my right to use my hardware the way I want.
+
+Why should we have to ask permission to use what we've spent our money on? Let's see an absurd extension of this logic: Why should Ford lose out on the rewards of building the car, when you don't go to an authorized service station to get your oil changed?
+
+Let me make this crystal clear: once you sell me something, I will do whatever I want with it. Period. I'll take it apart, I'll patch it, I'll make it do things you never imagined, and I'll tell everyone who will listen exactly how to do the same. It's mine, and every device you've purchased is yours too; don't let anyone tell you otherwise.
+
+I am a hardware hacker and this is my manifesto. We've always been here and we will always be here; you can fight to keep us out, but we'll fight even harder to get back in. I assure you we'll win.
+
+Happy hacking,     
+- Cody Brocious (Daeken)
+
+The Hardware Hacker Manifesto by Cody Brocious is licensed under a Creative Commons Attribution 3.0 Unported License.
