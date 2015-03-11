@@ -2,12 +2,6 @@
 
 % \usepackage{showframe}
 
-\usepackage{ragged2e}
-
-\usepackage{fancyhdr}
-
-\usepackage{afterpage}
-
 \usepackage[
   paperheight=6.875in,
   paperwidth=4.25in, 
@@ -19,6 +13,20 @@
   marginparwidth = 0cm, 
   marginparsep = 0cm]{geometry}
 % \usepackage[paperheight=10.75in,paperwidth=8.25in,margin=1in,heightrounded,showframe]{geometry}
+
+\usepackage{ragged2e}
+
+
+\usepackage{afterpage}
+
+
+% \usepackage{fancyhdr}
+
+
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\pagestyle{fancy}
+
 
 
 \usepackage{multicol}
@@ -177,6 +185,23 @@ $endfor$
 % \renewcommand{\headrulewidth}{1pt}
 
 
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
+\renewcommand{\sectionmark}[1]{ \markright{#1}{} }
+
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textit{ \nouppercase{\leftmark}} }
+\fancyhead[LO]{\textit{ \nouppercase{\rightmark}} }
+
+\fancypagestyle{plain}{ %
+  \fancyhf{} % remove everything
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+\newenvironment{bottompar}{\par\vspace*{\fill}}{\clearpage}
+
 
 \begin{document}
 
@@ -186,6 +211,7 @@ $endfor$
 $if(title)$
 \maketitle
 $endif$
+
 $if(abstract)$
 \begin{abstract}
 $abstract$
@@ -194,6 +220,8 @@ $endif$
 
 $for(include-before)$
 $include-before$
+
+
 
 $endfor$
 $if(toc)$
@@ -209,6 +237,9 @@ $endif$
 $if(lof)$
 \listoffigures
 $endif$
+
+
+
 
 % \pagenumbering{gobble}
 
