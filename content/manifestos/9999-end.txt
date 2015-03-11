@@ -2,8 +2,11 @@
 
 \thispagestyle{empty}
 
+\vspace*{\fill}
+
 Edited March 6-7 2015 during Fahrenheit 39, Ravenna
 
 Greyscale Press
+
 
 \afterpage{\null\thispagestyle{empty}\newpage}

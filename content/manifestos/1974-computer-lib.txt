@@ -1,3 +1,9 @@
+<!---
+
+\chapter{Computer Lib}
+\section{Computer Lib}
+-->
+
 # Computer Lib
 
 Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who *know* about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways – and so confusion increases. The chasm between laymen and computer people widens fast and dangerously .
