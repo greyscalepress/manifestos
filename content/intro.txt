@@ -1,4 +1,6 @@
----
-title: Manifestos
-author: Various
----
+\thispagestyle{empty}
+
+\vspace*{\fill}
+
+Edited March 2015\\*
+during Fahrenheit 39, Ravenna  
