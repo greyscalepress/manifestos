@@ -1,8 +1,5 @@
 # The Cult of Done Manifesto
 
-Bre Pettis    
-Mar 3, 2009 
-
 Dear Members of the Cult of Done,
 
 I present to you a manifesto of done. This was written in collaboration with Kio Stark in 20 minutes because we only had 20 minutes to get it done.
@@ -22,3 +19,8 @@ I present to you a manifesto of done. This was written in collaboration with Kio
 11. Destruction is a variant of done.
 12. If you have an idea and publish it on the internet, that counts as a ghost of done.
 13. Done is the engine of more.
+
+----
+
+Bre Pettis    
+March 3, 2009 

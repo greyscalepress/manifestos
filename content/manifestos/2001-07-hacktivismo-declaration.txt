@@ -1,7 +1,8 @@
-# THE HACKTIVISMO DECLARATION
+# The Hacktivismo Declaration
 
-assertions of liberty 
-in support of an uncensored internet
+assertions of liberty    
+in support of an uncensored internet    
+
 DEEPLY ALARMED that state-sponsored censorship of the Internet is rapidly spreading with the assistance of transnational corporations,
 
 TAKING AS A BASIS the principles and purposes enshrined in Article 19 of the Universal Declaration of Human Rights (UDHR) that states, "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers", and Article 19 of the International Covenant on Civil and Political Rights (ICCPR) that says,
@@ -36,14 +37,14 @@ THEREFORE WE ARE CONVINCED that the international hacking community has a moral 
 
 DECLARE:
 
-THAT FULL RESPECT FOR HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS INCLUDES THE LIBERTY OF FAIR AND REASONABLE ACCESS TO INFORMATION, WHETHER BY SHORTWAVE RADIO, AIR MAIL, SIMPLE TELEPHONY, THE GLOBAL INTERNET, OR OTHER MEDIA.
+That full respect for human rights and fundamental freedoms includes the liberty of fair and reasonable access to information, whether by shortwave radio, air mail, simple telephony, the global internet, or other media.
 
-THAT WE RECOGNIZE THE RIGHT OF GOVERNMENTS TO FORBID THE PUBLICATION OF PROPERLY CATEGORIZED STATE SECRETS, CHILD PORNOGRAPHY, AND MATTERS RELATED TO PERSONAL PRIVACY AND PRIVILEGE, AMONG OTHER ACCEPTED RESTRICTIONS. BUT WE OPPOSE THE USE OF STATE POWER TO CONTROL ACCESS TO THE WORKS OF CRITICS, INTELLECTUALS, ARTISTS, OR RELIGIOUS FIGURES.
+That we recognize the right of governments to forbid the publication of properly categorized state secrets, child pornography, and matters related to personal privacy and privilege, among other accepted restrictions. but we oppose the use of state power to control access to the works of critics, intellectuals, artists, or religious figures.
 
-THAT STATE SPONSORED CENSORSHIP OF THE INTERNET ERODES PEACEFUL AND CIVILIZED COEXISTENCE, AFFECTS THE EXERCISE OF DEMOCRACY, AND ENDANGERS THE SOCIOECONOMIC DEVELOPMENT OF NATIONS.
+That state sponsored censorship of the internet erodes peaceful and civilized coexistence, affects the exercise of democracy, and endangers the socioeconomic development of nations.
 
-THAT STATE-SPONSORED CENSORSHIP OF THE INTERNET IS A SERIOUS FORM OF ORGANIZED AND SYSTEMATIC VIOLENCE AGAINST CITIZENS, IS INTENDED TO GENERATE CONFUSION AND XENOPHOBIA, AND IS A REPREHENSIBLE VIOLATION OF TRUST.
+That state-sponsored censorship of the internet is a serious form of organized and systematic violence against citizens, is intended to generate confusion and xenophobia, and is a reprehensible violation of trust.
 
-THAT WE WILL STUDY WAYS AND MEANS OF CIRCUMVENTING STATE SPONSORED CENSORSHIP OF THE INTERNET AND WILL IMPLEMENT TECHNOLOGIES TO CHALLENGE INFORMATION RIGHTS VIOLATIONS.
+That we will study ways and means of circumventing state sponsored censorship of the internet and will implement technologies to challenge information rights violations.
 
 Issued July 4, 2001 by Hacktivismo and the CULT OF THE DEAD COW. 

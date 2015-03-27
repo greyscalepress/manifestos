@@ -1,0 +1,28 @@
+# Hackerethik
+
+Chaos Computer Club e.V.
+
+- Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollständig sein.
+- Alle Informationen müssen frei sein.
+- Mißtraue Autoritäten - fördere Dezentralisierung
+- Beurteile einen Hacker nach dem, was er tut und nicht nach üblichen Kriterien wie Aussehen, Alter, Rasse, Geschlecht oder gesellschaftlicher Stellung.
+- Man kann mit einem Computer Kunst und Schönheit schaffen.
+- Computer können dein Leben zum Besseren verändern
+- Mülle nicht in den Daten anderer Leute
+- Öffentliche Daten nützen, private Daten schützen
+
+Die Hackerethik ist nur bedingt einheitlich definiert. Es gibt eine ursprüngliche Version aus dem Buch "Hackers" von Steven Levy (ISBN 0-440-13405-6). Unstrittig ist insofern, daß die ursprüngliche Version aus dem MIT-Eisenbahnerclub (Tech Model Railroad Club) kommt und insofern aus einer Zeit stammt, in der sich verhältnissmäßig viele Leute wenige Computer teilen mußten und entsprechende Überlegungen zum Umgang miteinander und der Materie sinnvoll waren.
+
+Die letzten beiden Punkte sind Ergänzungen des CCC aus den 80er Jahren. Nachdem einige mehr oder weniger durchgeknallte aus der Hackerszene bzw. aus dem Umfeld auf die Idee kamen, ihr "Hack-Knowhow" dem KGB anzubieten, gab es heftige Diskussionen, weil Geheimdienste eher konträr zur Förderung freier Information stehen. Aber auch Eingriffe in die Systeme fremder Betreiber wurden zunehmend als kontraproduktiv erkannt.
+
+Um den Schutz der Privatsphäre des einzelnen mit der Förderung von Informationsfreiheit für Informationen, die die Öffentlichkeit betreffen, zu verbinden, wurde schließlich der bislang letzte Punkt angefügt.
+
+Die Hackerethik befindet sich - genauso wie die übrige Welt - insofern in ständiger Weiterentwicklung und Diskussion.
+
+Im Rahmen des 15. Chaos Communication Congress (27.-29.12.1998) fand ein Workshop statt, der noch andere Aspekte hervorgebracht hat, die bisher noch nicht eingearbeitet wurden. Das dort diskutierte Modell teilt sich in die Kategorien "Glaube" und "Moral", das ja bereits in der Kirche einige Jahrhunderte erfolgreich praktiziert wurde. Glaube (z.B. an eine Verbesserung der Lage durch Förderung von Informationsfreiheit und Transparenz) steht - wie auch in der Kirche - vor Moral (z.B. an den Regeln, mit fremden Systemen sorgsam umzugehen). Bevor wir jetzt allerdings anstreben, eine Kirche zu werden und dann auch gleich konsequenter Ablasshandel u.ä. zu betreiben, überlegen wir uns das nochmal gründlich. Dabei dürfen natürlich alle mitdenken.
+
+Bis dahin stehen die o.g. Regeln als Diskussionsgrundlage und Orientierung.
+
+Verbesserungsvorschläge und Eingaben dazu gerne jederzeit an den Chaos Computer Club
+
+Quelle: \url{https://web.archive.org/web/20011227211029/http://www.ccc.de/hackerethics}
