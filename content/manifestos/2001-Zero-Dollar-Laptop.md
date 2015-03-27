@@ -60,4 +60,4 @@ The emergence of the zero dollar laptop as a key computing platform for empoweri
 
 We already have all the tools we need - all we need to manufacture is the will to act locally; all we need to replace is the software on our hard drives; all we need to develop is the content of our minds.
 
-Source: https://jaromil.dyne.org/journal/zero_dollar_laptop.html
+Source: \url{https://jaromil.dyne.org/journal/zero_dollar_laptop.html}
