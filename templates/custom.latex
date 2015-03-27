@@ -6,9 +6,9 @@
   paperheight=6.875in,
   paperwidth=4.25in, 
   top = 1.8cm, 
-  bottom = 1.6cm, 
+  bottom = 1.2cm, 
   left = 2cm, 
-  right = 1.8cm, 
+  right = 1.2cm, 
   footskip = 0.8cm, 
   marginparwidth = 0cm, 
   marginparsep = 0cm]{geometry}
@@ -136,8 +136,8 @@ $endif$
             pdftitle={$title-meta$},
             colorlinks=true,
             citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+            urlcolor=black,
+            linkcolor=black,
             pdfborder={0 0 0}}
 \urlstyle{same}  % don't use monospace font for urls
 $if(links-as-notes)$
@@ -202,6 +202,8 @@ $endfor$
 
 \newenvironment{bottompar}{\par\vspace*{\fill}}{\clearpage}
 
+
+\renewcommand{\thefootnote}{\textcolor{black}{\arabic{footnote}}}
 
 \begin{document}
 

@@ -7,7 +7,7 @@
 
 ## 1: We declare some variables
 
-INPUT="../content/meta.txt ../content/manifestos/*.txt" ## ../content/intro.txt 
+INPUT="../content/meta.txt ../content/manifestos/*.*" ## ../content/intro.txt 
 TEMP="../temp/newfile.txt"
 TEMP2="../temp/newfile2.txt"
 OUTPUT="../output/output.pdf"
@@ -43,7 +43,10 @@ END {
 
 ## Consolata
 ## Inconsesi
+## "Breite Grotesk"
+## "Work Sans"
 
-pandoc -f markdown -o $OUTPUT --template=../templates/custom $TEMP --latex-engine=xelatex --variable mainfont=Consolata --variable sansfont=Futura --variable monofont=Inconsesi --variable fontsize=9pt --toc --toc-depth=1 --include-before-body=../content/intro.txt
+
+pandoc -f markdown -o $OUTPUT --template=../templates/custom $TEMP --latex-engine=xelatex --variable mainfont="Work Sans" --variable sansfont=Futura --variable monofont=Inconsesi --variable fontsize=9pt --toc --toc-depth=1 --include-before-body=../content/intro.txt
 
 ## End of file
