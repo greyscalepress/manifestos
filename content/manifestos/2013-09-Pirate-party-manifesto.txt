@@ -1,4 +1,4 @@
-# The PPEU Manifesto
+# The European Pirate Party (PPEU) Manifesto
 
 ## Preamble
 
@@ -60,4 +60,9 @@ We, the European Pirates, support the promotion of software that can be used, an
 
 Free culture is an important resource for the education and creativity of society. We strive to promote artistic activity and cultural diversity to ensure a rich educational and artistic environment for our and future generations.
 
-source: http://ppeu.net/wiki/doku.php?id=statutes:manifesto
+> Notes: 
+> The Manifesto of the European Pirate Party (PPEU) was finalized during a workshop at the conference of PPEU held on 27-28 July 2013 in Warsaw, Poland. The Conference of PPEU in Warsaw, as part of the establishment of the European Pirate Party, was the last of the Conferences that started after the Declaration of Prague nearly one and half year ago. The work has taken place in several other conferences (Barcelona, Manchester, Paris), meetings (Aarau, Potsdam, Rome, Zagreb, Kiev) and countless online meetings.
+
+> Sources:     
+> http://ppeu.net/wiki/doku.php?id=statutes:manifesto - Last modified: 2013/09/03 17:26 by philiph
+> http://piratetimes.net/here-comes-the-european-pirate-party/ - August 18, 2013

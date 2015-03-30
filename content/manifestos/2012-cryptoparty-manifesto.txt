@@ -49,3 +49,13 @@ right, the freedom of speech.
 Those who would seek to stop the spread of cryptography are akin to the 
 XV century clergy seeking to ban the printing press, afraid their monopoly 
 on knowledge will be undermined.
+
+----
+
+About: 
+
+This book was written in the first 3 days of October 2012 at Studio Weise7, Berlin, surrounded by fine food and a lake of coffee amidst a veritable snake pit of cables. Approximately 20 people were involved in its creation, some more than others, some local and some far (Melbourne in particular). 
+
+The Book Sprint was 3 days in length and the full list of onsite participants included: Adam Hyde (facilitator), Marta Peirano, Julian Oliver, Danja Vasiliev, Asher Wolf, Jan Gerber, Malte Dik, Brian Newbold, Brendan Howell, AT, Carola Hesse, Chris Pinchen, .. with cover art (illustrations to come) by Emile Denichaud.
+
+Sources: http://www.ucl.ac.uk/slade/know/2969
