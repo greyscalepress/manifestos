@@ -1,6 +1,6 @@
 # The Hacker's Manifesto
 
-By The Mentor (a.k.a. Loyd Blankenship
+By The Mentor (a.k.a. Loyd Blankenship)
 
 Another one got caught today, it's all over the papers.
 "Teenager Arrested in Computer Crime Scandal", "Hacker Arrested after
