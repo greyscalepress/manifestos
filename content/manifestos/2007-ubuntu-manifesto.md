@@ -46,4 +46,6 @@ Shuttleworth's Ubuntu philosophy is scattered throughout his blog. I've collecte
 ## #1: Keeping it FREE
 "... create something that we’ve never had before, which is a completely level software playing field for every young aspiring IT practitioner, and every aspiring entrepreneur. I believe that’s how we will really change the world, and how we will deliver the full benefit of the movement started more than two decades ago by Richard Stallman"
 
+----
+
 Source: \url{http://billkerr2.blogspot.com/2007/06/mark-shuttleworths-ubuntu-manifesto.html}
