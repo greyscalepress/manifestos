@@ -2,8 +2,6 @@
 
 By Edward Snowden 
 
-> A new "-ism" calls for sovereign expression in the 21st century, acronyms, typos, leetspeak, and kaomoji included.
-
 In a very short time, the world has learned much about unaccountable secret agencies and about sometimes illegal surveillance programs. Sometimes the agencies even deliberately try to hide their surveillance of high officials or the public. While the NSA and GCHQ seem to be the worst offenders - this is what the currently available documents suggest - we must not forget that mass surveillance is a global problem in need of global solutions.
 
 Such programs are not only a threat to privacy, they also threaten freedom of speech and open societies. The existence of spy technology should not determine policy. We have a moral duty to ensure that our laws and values limit monitoring programs and protect human rights.
