@@ -8,7 +8,7 @@
 
 Any nitwit can understand computers, and many do. Unfortunately, due to ridiculous historical circumstances, computers have been made a mystery to most of the world. And this situation does not seem to be improving. You hear more and more about computers, but to most people it's just one big blur. The people who *know* about computers often seem unwilling to explain things or answer your questions. Stereotyped notions develop about computers operating in fixed ways – and so confusion increases. The chasm between laymen and computer people widens fast and dangerously .
 
-This book is a measure of desperation, so serious and abysmal is the public sense of confusion and ignorance. Anything with buttons or lights can be palmed off on the layman as a computer. There are so many different things, and their differences are so important; yet to the lay public they are lumped together as "computer stuff," indistinct and beyond understanding or criticism . It's as if people couldn't tell apart camera from exposure meter or tripod, or car from truck or tollbooth. This book is therefore devoted to the premise that
+This book is a measure of desperation, so serious and abysmal is the public sense of confusion and ignorance. Anything with buttons or lights can be palmed off on the layman as a computer. There are so many different things, and their differences are so important; yet to the lay public they are lumped together as "computer stuff," indistinct and beyond understanding or criticism. It's as if people couldn't tell apart camera from exposure meter or tripod, or car from truck or tollbooth. This book is therefore devoted to the premise that
 
 EVERYBODY SHOULD UNDERSTAND COMPUTERS.
 

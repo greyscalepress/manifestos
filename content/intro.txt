@@ -4,3 +4,5 @@
 
 Edited March 2015\\*
 during Fahrenheit 39, Ravenna  
+
+Built with Markdown, Pandoc and TeX
