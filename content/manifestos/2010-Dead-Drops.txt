@@ -1,0 +1,9 @@
+# The Dead Drops Manifesto
+
+*Dead Drops* is an anonymous, offline, peer to peer file-sharing network in public space. Anyone can access a Dead Drop and everyone may install a Dead Drop in their neighborhood/city. A Dead Drop must be public accessible. A Dead Drop inside closed buildings or private places with limited or temporary access is not a Dead Drop. A real Dead Drop mounts as  read and writeable mass storage drive without any custom software. Dead Drops don’t need to be synced or connected to each other. Each Dead Drop is singular in its existence. A very beautiful Dead Drop shows only the metal sheath enclosed type-A USB plug and is cemented into walls.You would hardly notice it. Dead Drops don’t need any cables or wireless technology. Your knees on the ground or a dirty jacket on the wall is what it takes share files offline. A Dead Drop is a naked piece of passively powered Universal Serial Bus technology embedded into the city, the only true public space. In an era of growing clouds and fancy new devices without access to local files we need to rethink the freedom and distribution of data. The *Dead Drops* movement is on its way for change!
+
+Free your data to the public domain in cement! Make your own Dead Drop now! Un-cloud your files today!!!
+
+Aram Bartholl 2010
+
+Source: \url{https://deaddrops.com/dead-drops/manifesto/}

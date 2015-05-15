@@ -1,0 +1,3 @@
+<i>Manifestos for the Internet Age</i> is a reader that collects manifestos of computer culture, starting with Ted Nelson (<i>Computer Lib</i>), through the <i>GNU Manifesto</i> and the <i>Hacker Manifesto</i> (1986), up to current influential positions such as the <i>Zero Dollar Laptop Manifesto</i> (James Wallbank), the <i>Lo-Fi Manifesto</i> (Karl Stolley), the <i>Critical Engineering Manifesto</i> (Oliver, Savičić, Vasiliev), and many other writings from both artists and activists. 
+
+The present edition (as of May 2015) includes writings by Aaron Swartz, Adam Hyde, the Swedish Piratpartiet, Constant Dullaart, Edward Snowden, Piotr Czerski, David Weinberger and Doc Searls.
