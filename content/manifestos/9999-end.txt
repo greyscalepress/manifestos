@@ -7,7 +7,7 @@
 Version 0.0 edited March 6-7 2015 at Fahrenheit39    
 Version 0.1 released March 11 2015    
 Version 0.2 released March 24 2015    
-Version 0.3 (current) released April 2015    
+Version 0.3 (current) released May 2015    
 
 Greyscale Press
 

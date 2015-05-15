@@ -129,6 +129,7 @@ The European Parliament is the only institution in Brussels that is directly ele
 As proposed by the Swedish Piratpartiet on June 29, 2008 
 
 Sources: 
+
 - \url{http://Lists.pirateweb.net/pipermail/pp.internationaLgeneral/2008-June/001195.html}
 - \url{http://wiki.piratenpartei.de/Uppsala-Deklaration}
 - \url{https://archive.org/details/UppsalaDeclaration}

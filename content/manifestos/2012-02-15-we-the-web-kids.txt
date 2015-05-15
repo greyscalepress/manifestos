@@ -40,8 +40,12 @@ http://creativecommons.org/licenses/by-sa/3.0/
  
 Contact the author: piotr[at]czerski.art.pl
 
+-----
+
 Sources: 
 
-http://pastebin.com/0xXV8k7k - by: Czerski, on Feb 15TH, 2012
+\url{http://pastebin.com/0xXV8k7k}    
+by: Czerski, on Feb 15TH, 2012
 
-http://www.theatlantic.com/technology/archive/2012/02/we-the-web-kids/253382/ - posted by Alexis C. Madrigal, Feb 21 2012
+\url{http://www.theatlantic.com/technology/archive/2012/02/we-the-web-kids/253382/}    
+posted by Alexis C. Madrigal, Feb 21 2012
