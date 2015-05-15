@@ -4,9 +4,9 @@ by Adam Hyde, June 26-27 2012
 
 ok..so i have too much time in my hands...i was pondering the things we do in FLOSS Manuals in abstract and thought we could almost come up kind of short (shudder) manifesto for the kinds of methods we use for book production. I was trying to capture something that could encompass all the activities from Book Sprints to rolling manual development to remote update sprints etc etc etc
 
-so...here it is:
+so... here it is:
 
-## Iterative Book Development (IDB) Manifesto:
+## Iterative Book Development (IBD) Manifesto:
 
 We value:
 

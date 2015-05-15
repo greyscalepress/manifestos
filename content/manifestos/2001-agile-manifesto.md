@@ -30,23 +30,7 @@ We follow these principles:
 
 ## Authors
 
-Kent Beck    
-Mike Beedle    
-Arie van Bennekum    
-Alistair Cockburn    
-Ward Cunningham    
-Martin Fowler    
-James Grenning    
-Jim Highsmith    
-Andrew Hunt    
-Ron Jeffries    
-Jon Kern    
-Brian Marick    
-Robert C. Martin    
-Steve Mellor    
-Ken Schwaber    
-Jeff Sutherland    
-Dave Thomas    
+Kent Beck, Mike Beedle, Arie van Bennekum, Alistair Cockburn, Ward Cunningham, Martin Fowler, James Grenning, Jim Highsmith, Andrew Hunt, Ron Jeffries, Jon Kern, Brian Marick, Robert C. Martin, Steve Mellor, Ken Schwaber, Jeff Sutherland, Dave Thomas
 
 © 2001, the above authors    
 this declaration may be freely copied in any form, 
