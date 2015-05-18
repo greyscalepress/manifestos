@@ -1,37 +1,35 @@
-# Manifestos
+# Manifestos for the Internet Age
+
 A collection of manifestos for the internet age.
 
-# Format
-Use same format as other pocket greyscale titles.
+## Format
+
+Same format as other pocket greyscale titles.
 
 Page size: 4.25" x 6.875" (10.795cm x 17.463cm)
 
-Margins: 
+Margins, bleed, cover:
 
-Bleed: 
+See [notes/cover-size.md](notes/cover-size.md)
 
-# Cover format
+## Specifications
 
-- Current number of pages: 53    
-Amazon cover specs: 
+Description, BISAC Category, ISBN, Pricing...
 
-Spine Width Calculation:    
-Cream paper: multiply page count by 0.0025"
+See [notes/specifications.md](notes/specifications.md)
 
-53 * 0.0025 = 0.1325 inch
-120 * 0.0025 = 0.3 inch
+## Release history
 
-## Full cover surface (including bleed): 
-height: 6.8750 (+ 0.25 bleed = 7.125")    
-width: 4.25 + 0.3 + 4.25 = 8.8 (+ 0.25 bleed = 8.25")
+See [content/manifestos/9999-end.txt](content/manifestos/9999-end.txt) 
 
-# Software used
 
-## Pandoc
+## Software used
+
+### Pandoc
 
 Source: [http://johnmacfarlane.net/pandoc/](http://johnmacfarlane.net/pandoc/)
 
-## TeX
+### TeX
 
 Installer for Mac OSX: BasicTeX
 
