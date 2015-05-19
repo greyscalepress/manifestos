@@ -22,9 +22,9 @@ Political Science / Political Freedom
 
 ## ISBN: 
 
-First version: 978-2-940561-00-1
+First version: 978-2-940561-00-1 (discarded)
 
-Second version: 978-2-940561-02-5    
+Current version: 978-2-940561-02-5    
 ISBN-13: 9782940561025    
 ISBN-10: 2940561028
 
