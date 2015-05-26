@@ -2,6 +2,8 @@
 
 A collection of manifestos for the internet age.
 
+You can obtain a printed version on [Amazon.com](http://www.amazon.com/Manifestos-Internet-Age-Various/dp/2940561028/), also on [Amazon UK](http://www.amazon.co.uk/Manifestos-Internet-Age-Various/dp/2940561028/), [Germany](http://www.amazon.de/Manifestos-Internet-Age-Various/dp/2940561028/), [France](http://www.amazon.fr/Manifestos-Internet-Age-Various/dp/2940561028/), [Spain](http://www.amazon.es/Manifestos-Internet-Age-Various/dp/2940561028/).
+
 ## Format
 
 Same format as other pocket greyscale titles.
