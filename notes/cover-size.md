@@ -1,6 +1,6 @@
 # Cover format
 
-- Current number of pages: 158    
+- Current number of pages: 144    
 Amazon cover specs: 
 https://www.createspace.com/Products/Book/CoverPDF.jsp
 
@@ -47,5 +47,10 @@ start of right page: 4.25+0.395 = 4.645
 139 pages:
 Spine width: 139 * 0.0025 = 0.3475
 Cover width: 4.25 + 0.3475 + 4.25 = 8.8475 (+ 0.25 bleed = 9.0975")
-Right page begins at: 4.25 + 0.3475= 4.5975
+Right page begins at: 4.25 + 0.3475 = 4.5975
+
+144 pages:
+Spine width: 144 * 0.0025 = 0.36 = move stuff by 0.125 to the right
+Cover width: 4.25 + 0.36 + 4.25 = 8.86 (+ 0.25 bleed = 9.11")
+Right page begins at: 4.25 + 0.36 = 4.61
 

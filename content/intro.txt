@@ -5,4 +5,10 @@
 Edited March 2015\\*
 during Fahrenheit 39, Ravenna  
 
-Built with Markdown, Pandoc and TeX
+Built with Markdown, Pandoc and TeX\\*
+Cover designed with Scribus
+
+Typeface: Limousine, by OSP Foundry
+
+Greyscale Press\\*
+ISBN-13: 978-2-940561-02-5 

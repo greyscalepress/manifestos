@@ -15,7 +15,7 @@
 % \usepackage[paperheight=10.75in,paperwidth=8.25in,margin=1in,heightrounded,showframe]{geometry}
 
 \usepackage{ragged2e}
-
+\setlength{\RaggedRightParindent}{0pt}
 
 \usepackage{afterpage}
 
@@ -208,7 +208,8 @@ $endfor$
 \begin{document}
 
 % \textbf{RaggedRight with hyphenation}\par
-\raggedright
+
+\RaggedRight
 
 $if(title)$
 \maketitle
