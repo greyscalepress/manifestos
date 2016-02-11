@@ -2,13 +2,16 @@
 
 \vspace*{\fill}
 
-Edited March 2015\\*
+The first version of this book (0.0)\\*
+was created in March 2015\\*
 during Fahrenheit 39, Ravenna  
 
 Built with Markdown, Pandoc and TeX\\*
 Cover designed with Scribus
 
-Typeface: Limousine, by OSP Foundry
+Typefaces\\*
+Cover: Limousine, by OSP Foundry\\*  
+Interior: Monoid, by Andreas Larsen
 
 Greyscale Press\\*
 ISBN-13: 978-2-940561-02-5

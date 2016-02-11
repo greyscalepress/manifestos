@@ -7,7 +7,7 @@
 
 #### 0x00 
 
-0x00 Ours is a world in vertigo. It is a world that swarms with 
+Ours is a world in vertigo. It is a world that swarms with 
 technological mediation, interlacing our daily lives with abstraction, 
 virtuality, and complexity. XF constructs a feminism adapted to these 
 realities: a feminism of unprecedented cunning, scale, and vision; a future 
@@ -40,7 +40,9 @@ child-rearing.  XF is vehemently anti-naturalist.  Essentialist naturalism
 reeks of theology -- the sooner it is exorcised, the better. 
 
 
-0x02 Why is there so little explicit, organized effort to repurpose 
+#### 0x02 
+
+Why is there so little explicit, organized effort to repurpose 
 technologies for progressive gender political ends? XF seeks to 
 strategically deploy existing technologies to re-engineer the world.  Serious 
 risks are built into these tools; they are prone to imbalance, abuse, and 
@@ -53,7 +55,9 @@ must be linked to a collective theoretical and political thinking in which
 women, queers, and the gender non-conforming play an unparalleled role. 
 
  
-0x03 The real emancipatory potential of technology remains unrealized.  Fed 
+#### 0x03 
+
+The real emancipatory potential of technology remains unrealized.  Fed 
 by the market, its rapid growth is offset by bloat, and elegant innovation 
 is surrendered to the buyer, whose stagnant world it decorates.  Beyond the 
 noisy clutter of commodified cruft, the ultimate task lies in engineering 
@@ -66,7 +70,9 @@ of the worst paid, monotonous and debilitating labour.  Such injustice
 demands structural, machinic and ideological correction. 
 
 
-0x04 Xenofeminism is a rationalism.  To claim that reason or rationality is 
+#### 0x04 
+
+Xenofeminism is a rationalism.  To claim that reason or rationality is 
 'by nature' a patriarchal enterprise is to concede defeat.  It is true that 
 the canonical 'history of thought' is dominated by men, and it is male hands 
 we see throttling existing institutions of science and technology.  But this 
@@ -84,7 +90,9 @@ and declares the right of everyone to speak as no one in particular.
 ### INTERRUPT
 
 
-0x05 The excess of modesty in feminist agendas of recent decades is not 
+#### 0x05 
+
+The excess of modesty in feminist agendas of recent decades is not 
 proportionate to the monstrous complexity of our reality, a reality 
 crosshatched with fibre-optic cables, radio and microwaves, oil and gas 
 pipelines, aerial and shipping routes, and the unrelenting, simultaneous 
@@ -100,7 +108,9 @@ as absolute, generating a debilitating disjuncture between the thing we seek
 to depose and the strategies we advance to depose it. 
 
 
-0x06 Global complexity opens us to urgent cognitive and ethical demands.  
+#### 0x06 
+
+Global complexity opens us to urgent cognitive and ethical demands.  
 These are Promethean responsibilities that cannot pass unaddressed.  Much of 
 twenty-first century feminism -- from the remnants of postmodern identity 
 politics to large swathes of contemporary ecofeminism -- struggles to 
@@ -110,7 +120,9 @@ obligations as collective agents capable of transitioning between multiple
 levels of political, material and conceptual organization. 
 
 
-0x07 We are adamantly synthetic, unsatisfied by analysis alone.  XF urges 
+#### 0x07 
+
+We are adamantly synthetic, unsatisfied by analysis alone.  XF urges 
 constructive oscillation between description and prescription to mobilize 
 the recursive potential of contemporary technologies upon gender, sexuality 
 and disparities of power.  Given that there are a range of gendered 
@@ -127,7 +139,9 @@ redeploy existing technologies and invent novel cognitive and material tools
 in the service of common ends. 
  
 
-0x08 The radical opportunities afforded by developing (and alienating) forms 
+#### 0x08 
+
+The radical opportunities afforded by developing (and alienating) forms 
 of technological mediation should no longer be put to use in the exclusive 
 interests of capital, which, by design, only benefits the few.  There are 
 incessantly proliferating tools to be annexed, and although no one can claim 
@@ -146,7 +160,9 @@ anticipate its systemic condition responsively.
 ### TRAP
 
 
-0x09 XF rejects illusion and melancholy as political inhibitors.  Illusion, 
+#### 0x09 
+
+XF rejects illusion and melancholy as political inhibitors.  Illusion, 
 as the blind presumption that the weak can prevail over the strong with no 
 strategic coordination, leads to unfulfilled promises and unmarshalled 
 drives.  This is a politics that, in wanting so much, ends up building so 
@@ -163,7 +179,9 @@ hope of calibrating the world otherwise.   It is against such maladies that
 XF innoculates. 
 
 
-0x0A We take politics that exclusively valorize the local in the guise of 
+#### 0x0A 
+
+We take politics that exclusively valorize the local in the guise of 
 subverting currents of global abstraction, to be insufficient.  To secede 
 from or disavow capitalist machinery will not make it disappear.  Likewise, 
 suggestions to pull the lever on the emergency brake of embedded velocities, 
@@ -177,7 +195,9 @@ creature on the offensive, fiercely insisting on the possibility of
 large-scale social change for all of our alien kin. 
 
 
-0x0B A sense of the world's volatility and artificiality seems to have faded 
+#### 0x0B 
+
+A sense of the world's volatility and artificiality seems to have faded 
 from contemporary queer and feminist politics, in favour of a plural but 
 static constellation of gender identities, in whose bleak light equations of 
 the good and the natural are stubbornly restored.  While having (perhaps) 
@@ -201,7 +221,9 @@ come to tear down this shrine entirely, and not bow down before it in a
 piteous apology for what little autonomy has been won. 
 
 
-0x0C If 'cyberspace' once offered the promise of escaping the strictures of 
+#### 0x0C 
+
+If 'cyberspace' once offered the promise of escaping the strictures of 
 essentialist identity categories, the climate of contemporary social media 
 has swung forcefully in the other direction, and has become a theatre where 
 these prostrations to identity are performed.  With these curatorial 
@@ -215,7 +237,9 @@ frenzies -- leave us cold.  We want neither clean hands nor beautiful souls,
 neither virtue nor terror.  We want superior forms of corruption. 
 
 
-0x0D What this shows is that the task of engineering platforms for social 
+#### 0x0D 
+
+What this shows is that the task of engineering platforms for social 
 emancipation and organization cannot ignore the cultural and semiotic 
 mutations these platforms afford.  What requires reengineering are the 
 memetic parasites arousing and coordinating behaviours in ways occluded by 
@@ -232,7 +256,9 @@ this fact, and calibrating it in view of the ends it desires.
 ### PARITY
 
 
-0x0E Xenofeminism is gender-abolitionist.  'Gender abolitionism' is not code 
+#### 0x0E 
+
+Xenofeminism is gender-abolitionist.  'Gender abolitionism' is not code 
 for the eradication of what are currently considered 'gendered' traits from 
 the human population.  Under patriarchy, such a project could only spell 
 disaster -- the notion of what is 'gendered' sticks disproportionately to the 
@@ -251,7 +277,9 @@ you are a wage labourer or poor; you are a labourer or poor because you are
 exploited. 
 
 
-0x0F Xenofeminism understands that the viability of emancipatory 
+#### 0x0F 
+
+Xenofeminism understands that the viability of emancipatory 
 abolitionist projects -- the abolition of class, gender, and race -- hinges on a 
 profound reworking of the universal.  The universal must be grasped as 
 generic, which is to say, intersectional.  Intersectionality is not the 
@@ -272,7 +300,9 @@ spectacle of so many self-proclaimed 'gender abolitionists'' campaign
 against trans women is proof enough of this. )
 
 
-0x10 From the postmoderns, we have learnt to burn the facades of the false 
+#### 0x10 
+
+From the postmoderns, we have learnt to burn the facades of the false 
 universal and dispel such confusions; from the moderns, we have learnt to 
 sift new universals from the ashes of the false.  Xenofeminism seeks to 
 construct a coalitional politics, a politics without the infection of 
@@ -298,7 +328,9 @@ platforms afford.
 ### ADJUST
 
 
-0x11 Our lot is cast with technoscience, where nothing is so sacred that it 
+#### 0x11 
+
+Our lot is cast with technoscience, where nothing is so sacred that it 
 cannot be reengineered and transformed so as to widen our aperture of 
 freedom, extending to gender and the human.  To say that nothing is sacred, 
 that nothing is transcendent or protected from the will to know, to tinker 
@@ -312,7 +344,9 @@ claim, that cannot be studied scientifically and manipulated
 technologically. 
 
 
-0x12 This does not mean that the distinction between the ontological and the 
+#### 0x12 
+
+This does not mean that the distinction between the ontological and the 
 normative, between fact and value, is simply cut and dried.  The vectors of 
 normative anti-naturalism and ontological naturalism span many ambivalent 
 battlefields.  The project of untangling what ought to be from what is, of 
@@ -327,7 +361,9 @@ filaments instantly dim.
 ### CARRY
 
 
-0x13 The potential of early, text-based internet culture for countering 
+#### 0x13 
+
+The potential of early, text-based internet culture for countering 
 repressive gender regimes, generating solidarity among marginalised groups, 
 and creating new spaces for experimentation that ignited cyberfeminism in 
 the nineties has clearly waned in the twenty-first century.  The dominance of 
@@ -345,7 +381,9 @@ grasps points of power and powerlessness in both, to unfold this knowledge
 as effective interventions in our jointly composed reality. 
  
 
-0x14 Intervention in more obviously material hegemonies is just as crucial 
+#### 0x14 
+
+Intervention in more obviously material hegemonies is just as crucial 
 as intervention in digital and cultural ones.  Changes to the built 
 environment harbour some of the most significant possibilities in the 
 reconfiguration of the horizons of women and queers.  As the embodiment of 
@@ -357,7 +395,9 @@ become attuned to the language of architecture as a vocabulary for
 collective choreo-graphy -- the coordinated writing of space. 
 
 
-0x15 From the street to the home, domestic space too must not escape our 
+#### 0x15 
+
+From the street to the home, domestic space too must not escape our 
 tentacles.  So profoundly ingrained, domestic space has been deemed 
 impossible to disembed, where the home as norm has been conflated with home 
 as fact, as an un-remakeable given.  Stultifying 'domestic realism' has no 
@@ -379,7 +419,9 @@ while building models of familiality free from the deadening grind of wage
 labour. 
 
 
-0x16 From the home to the body, the articulation of a proactive politics for 
+#### 0x16 
+
+From the home to the body, the articulation of a proactive politics for 
 biotechnical intervention and hormones presses.  Hormones hack into gender 
 systems possessing political scope extending beyond the aesthetic 
 calibration of individual bodies.  Thought structurally, the distribution of 
@@ -401,7 +443,9 @@ clinics, gender hacktivist and DIY-HRT forums, and so on, to assemble a
 platform for free and open source medicine?
 
 
-0x17 From the global to the local, from the cloud to our bodies, 
+#### 0x17 
+
+From the global to the local, from the cloud to our bodies, 
 xenofeminism avows the responsibility in constructing new institutions of 
 technomaterialist hegemonic proportions.  Like engineers who must conceive of 
 a total structure as well as the molecular parts from which it is 
@@ -417,7 +461,9 @@ invite contamination as a mutational driver between such frontiers.
 ### OVERFLOW
 
 
-0x18 XF asserts that adapting our behaviour for an era of Promethean 
+#### 0x18 
+
+XF asserts that adapting our behaviour for an era of Promethean 
 complexity is a labour requiring patience, but a ferocious patience at odds 
 with 'waiting'.  Calibrating a political hegemony or insurgent memeplex not 
 only implies the creation of material infra-structures to make the values it 
@@ -429,7 +475,9 @@ egalitarian community buttressed by new forms of unselfish solidarity and
 collective self-mastery?
 
 
-0x19 Is xenofeminism a programme? Not if this means anything so crude as a 
+#### 0x19 
+
+Is xenofeminism a programme? Not if this means anything so crude as a 
 recipe, or a single-purpose tool by which a determinate problem is solved.  
 We prefer to think like the schemer or lisper, who seeks to construct a new 
 language in which the problem at hand is immersed, so that solutions for it, 
@@ -446,7 +494,9 @@ patriarchy in a sea of procedures that soften its shell and dismantle its
 defenses, so as to build a new world from the scraps. 
 
 
-0x1A Xenofeminism indexes the desire to construct an alien future with a 
+#### 0x1A 
+
+Xenofeminism indexes the desire to construct an alien future with a 
 triumphant X on a mobile map.  This X does not mark a destination.  It is the 
 insertion of a topological-keyframe for the formation of a new logic.  In 
 affirming a future untethered to the repetition of the present, we militate 
