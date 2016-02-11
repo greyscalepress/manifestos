@@ -1,6 +1,6 @@
 # Cover format
 
-- Current number of pages: 144    
+- Current number of pages: 187    
 Amazon cover specs: 
 https://www.createspace.com/Products/Book/CoverPDF.jsp
 
@@ -32,8 +32,8 @@ If you choose to provide and place your own barcode, be sure it is a high-resolu
 
 ## Size Calculation
 
-53 * 0.0025 = 0.1325 inch
-120 * 0.0025 = 0.3 inch
+53 * 0.0025 = 0.1325 inch    
+120 * 0.0025 = 0.3 inch    
 158 * 0.0025 = 0.395 inch
 
 ## Full cover surface (including bleed): 
@@ -54,3 +54,7 @@ Spine width: 144 * 0.0025 = 0.36 = move stuff by 0.125 to the right
 Cover width: 4.25 + 0.36 + 4.25 = 8.86 (+ 0.25 bleed = 9.11")
 Right page begins at: 4.25 + 0.36 = 4.61
 
+187 pages:
+Spine width: 187 * 0.0025 = 0.4675
+Cover width: 4.25 + 0.4675 + 4.25 = 8.9675 (+ 0.25 bleed = 9.2175")
+Right page begins at: 4.25 + 0.4675 = 4.7175
