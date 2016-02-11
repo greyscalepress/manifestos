@@ -52,8 +52,15 @@ END {
 ## "Sophia Nubian"
 ## "Limousine"
 
-
-
-pandoc -f markdown -o $OUTPUT --template=../templates/custom $TEMP --latex-engine=xelatex --variable mainfont="Limousine" --variable sansfont=Futura --variable monofont=Inconsesi --variable fontsize=9pt --toc --toc-depth=1 --include-before-body=../content/intro.txt
+pandoc -f markdown -o $OUTPUT --template=../templates/customV2 $TEMP --latex-engine=xelatex \
+    --variable mainfont="Limousine" \
+    --variable sansfont=Futura \
+    --variable monofont=Inconsesi \
+    --variable fontsize=9pt \
+    --variable urlcolor=black \
+    --variable linkcolor=black \
+    --variable documentclass=book \
+    --toc --toc-depth=1 \
+    --include-before-body=../content/intro.txt
 
 ## End of file

@@ -1,4 +1,4 @@
-# Mark Shuttleworth's Ubuntu manifesto
+# Mark Shuttleworth’s Ubuntu manifesto
 
 Posted by Bill Kerr, June 14 2007
 

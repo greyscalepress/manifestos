@@ -27,12 +27,59 @@ See [content/manifestos/9999-end.txt](content/manifestos/9999-end.txt)
 
 ## Software used
 
+Here is what you need to install in order to compile the book.
+
 ### Pandoc
 
 Source: [http://johnmacfarlane.net/pandoc/](http://johnmacfarlane.net/pandoc/)
+
+The package I am using: pandoc-1.14.0.1-osx.pkg
 
 ### TeX
 
 Installer for Mac OSX: BasicTeX
 
 [http://www.tug.org/mactex/morepackages.html](http://www.tug.org/mactex/morepackages.html)
+
+The package I am using: basictex-20150613.pkg
+
+### flushend.sty
+
+This is a Latex extension that we use. It needs to be installed.
+
+The method I used to install it: running this in the command line:
+
+sudo tlmgr install sttools
+
+### titlesec.sty
+
+Another package we need to install...
+
+Command:
+sudo tlmgr install titlesec
+
+The titlesec package allows basic changes to the standard chapter style, including setting the font style and size or placement of the title.
+
+### tocloft.sty
+
+We want to control the Table of Contents: \usepackage{tocloft}
+
+Command:
+sudo tlmgr install tocloft
+
+
+## Troubleshooting
+
+Errors that can occur during compilation:
+
+! Undefined control sequence.
+l.719 \tightlist
+
+! Undefined control sequence.
+l.4428 \afterpage
+
+! LaTeX Error: \chaptermark undefined.
+= is linked to the fancyhdr package.
+I'll hazard a guess: You are using a document class without the \chapter command (article, scrartcl, ...)
+Solution: we need to use the "book" document class
+

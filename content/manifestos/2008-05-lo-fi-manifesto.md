@@ -46,10 +46,10 @@ Despite their humble, decades-old base technology (plain text), innovative uses 
 
 Karl Stolley
 
-“The Lo-Fi Manifesto.” Kairos: A Journal of Rhetoric, Technology, and Pedagogy 12(3). Available http://kairos.technorhetoric.net/12.3/ (May 2008).
+“The Lo-Fi Manifesto.” Kairos: A Journal of Rhetoric, Technology, and Pedagogy 12(3). Available \url{http://kairos.technorhetoric.net/12.3/} (May 2008).
 
 Sources: 
 
-* http://kairos.technorhetoric.net/12.3/topoi/stolley/
-* https://github.com/karlstolley/lo-fi
+* \url{http://kairos.technorhetoric.net/12.3/topoi/stolley/}
+* \url{https://github.com/karlstolley/lo-fi}
 
