@@ -51,9 +51,10 @@ END {
 ## "Archivo Narrow"
 ## "Sophia Nubian"
 ## "Limousine"
+## Monoid
 
 pandoc -f markdown -o $OUTPUT --template=../templates/customV2 $TEMP --latex-engine=xelatex \
-    --variable mainfont="Limousine" \
+    --variable mainfont="Monoid" \
     --variable sansfont=Futura \
     --variable monofont=Inconsesi \
     --variable fontsize=9pt \
