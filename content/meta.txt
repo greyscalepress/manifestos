@@ -1,4 +1,6 @@
 ---
-title: 'Manifestos'
+title: |
+  Manifestos for the             
+  Internet Age
 lang: en
 ---
