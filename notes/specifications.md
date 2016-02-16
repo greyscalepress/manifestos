@@ -8,7 +8,7 @@ Design: Manuel Schmalstieg
 
 <i>Manifestos for the Internet Age</i> is a reader that collects manifestos of computer culture, starting with Ted Nelson (<i>Computer Lib</i>), through the <i>GNU Manifesto</i> and the <i>Hacker Manifesto</i> (1986), up to current influential positions such as the <i>Critical Engineering Manifesto</i> (Oliver, Savicic, Vasiliev), the <i>3D Additivist Manifesto</i> (Morehshin Allahyari & Daniel Rourke), the <i>Xenofeminist Manifesto</i> (Laboria Cuboniks) and many other writings from both artists and activists. 
 
-The present edition (as of February 2016) includes writings by VNS Matrix, Aaron Swartz, Adam Hyde, the Swedish Piratpartiet, Constant Dullaart, Aram Bartholl, Edward Snowden, Piotr Czerski, David Weinberger, Doc Searls, Evan Roth and Casey Gollan.
+The present edition (as of February 2016) includes writings by VNS Matrix, Aaron Swartz, Asher Wolf, the Swedish Piratpartiet, Constant Dullaart, Aram Bartholl, Edward Snowden, Piotr Czerski, David Weinberger, Doc Searls, Evan Roth and Casey Gollan.
 
 ## Size: 
 
