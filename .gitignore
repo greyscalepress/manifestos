@@ -1,4 +1,4 @@
-# Numerous always-ignore extensions
+## Numerous always-ignore extensions
 ######################
 *.diff
 *.err
@@ -41,4 +41,5 @@ dwsync.xml
 # Folders to ignore
 ###################
 temp
-manifestos-tmp
+newclues-gh-pages
+# manifestos-tmp
