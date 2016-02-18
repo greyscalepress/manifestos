@@ -58,3 +58,6 @@ Right page begins at: 4.25 + 0.36 = 4.61
 Spine width: 187 * 0.0025 = 0.4675
 Cover width: 4.25 + 0.4675 + 4.25 = 8.9675 (+ 0.25 bleed = 9.2175")
 Right page begins at: 4.25 + 0.4675 = 4.7175
+
+209 pages:
+Spine width: 209 

@@ -68,5 +68,5 @@ The Manifesto of the European Pirate Party (PPEU) was finalized during a worksho
 
 ## Sources:     
 
-- \url{http://piratetimes.net/here-comes-the-european-pirate-party/} - August 18, 2013
+- http://piratetimes.net/here-comes-the-european-pirate-party/ - August 18, 2013
 - \url{http://ppeu.net/wiki/doku.php?id=statutes:manifesto} - Last modified: 2013/09/03

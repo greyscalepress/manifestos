@@ -24,5 +24,6 @@ I am not a skillful programmer, hands-on person or eminent professional; I am ju
 
 I am "publishing" this book myself, in this first draft form, to test its viability, to see how mad the computer people get, and to see if there is as much hunger to understand computers, among all you Folks Out There, as I Ihink. I will be interested to receive corrections and suggestions for subsequent editions, if any. (The computer field is its own exploding universe, so I'll worry about up-to-dateness at that time.)
 
+---
 
-Nelson, Theodor. 1974. Computer Lib: You Can and Must Understand Computers Now; Dream Machines: New Freedoms Through Computer Screens— A Minority Report. Self-published. ISBN 0-89347-002-3.
+Nelson, Theodor. 1974. *Computer Lib: You Can and Must Understand Computers Now; Dream Machines: New Freedoms Through Computer Screens— A Minority Report.* Self-published. ISBN 0-89347-002-3.

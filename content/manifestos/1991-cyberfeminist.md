@@ -34,6 +34,8 @@ corrupting the discourse
 
 we are the future cunt
 
+![Cyberfeminist Manifesto for the 21st Century](../content/manifestos-img/1991-cyberfeminist.jpg)
+
 ---
 
 Manifesto first declared by VNS Matrix     
