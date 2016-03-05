@@ -7,7 +7,7 @@ Communication:
 
 Editorial:
 - Write an introduction
-- Create a Biographies section
+- Create a Biographies section?
 - Maybe some interviews? With Gordan Savicic?
 Design:
 More manifestos:

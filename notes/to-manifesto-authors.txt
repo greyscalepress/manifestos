@@ -1,0 +1,30 @@
+Hello XXX,
+
+this messsage is to let you know that your text,
+...
+has been included in the collection "Manifestos for the Internet Age".
+
+This collection is a crowdsourced book, entirely created with free & open source software, and published on github:
+https://github.com/greyscalepress/manifestos
+
+The first version was created in March 2015, during a workshop on book prototyping given at the Fahrenheit 39 Art Book Fair, Ravenna, Italy.
+
+There have been several additions and iterations since, the current release (as of March 2016) is version 0.7.
+
+The layout is done with command-line tools Pandoc and Latex. You can find the PDF in the "output" folder:
+
+
+A printed edition is released via print-on-demand through Amazon:
+http://www.amazon.com/Manifestos-Internet-Age-Various/dp/2940561028/
+
+I hope you enjoy this project.
+
+I am welcoming further contributions (if you think of any other manifesto that I missed, let me know). If you would be interested in adding something like an introduction, or an interview, let me know.
+
+Best regards,
+
+Manuel Schmalstieg
+Greyscale Press
+Neuchâtel
+
+***
