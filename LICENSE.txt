@@ -1,0 +1,17 @@
+# Licence for Manifestos for the Internet Age
+
+This book is *a collection* of writings. 
+
+## Licence of included texts
+
+Each text in this collection has it's own specific licence, defined by it's author(s).
+
+## Licence of the collection as a whole
+
+The collection as a whole (a collection has it's own copyright status in most juridictions) is released under CC-Zero.
+
+This means that the project can be widely re-used and adapted: You can make your own version of it! No need to ask me for permission.
+
+Of course, you must consider the licence of each included text.
+
+***
