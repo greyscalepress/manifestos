@@ -1,8 +1,0 @@
-\afterpage{\null\thispagestyle{empty}\newpage}
-
-# Authors
-
-**Rosa Menkman** - author of the Glitch Studies Manifesto.
-
-
-\afterpage{\null\thispagestyle{empty}\newpage}
