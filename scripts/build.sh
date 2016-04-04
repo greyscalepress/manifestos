@@ -50,11 +50,15 @@ END {
 ## "Work Sans"
 ## "Archivo Narrow"
 ## "Sophia Nubian"
-## "Limousine"
-## Monoid
+## "Limousine" - by OSP Foundry
+## Monoid - by Andreas Larsen
+## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
 
 pandoc -f markdown -o $OUTPUT --template=../templates/customV2 $TEMP --latex-engine=xelatex \
-    --variable mainfont="Monoid" \
+    --variable mainfont="Roboto" \
+    --variable boldfont="Roboto Bold" \
+    --variable italicfont="Roboto Italic" \
+    --variable bolditalicfont="Roboto Bold Italic" \
     --variable sansfont=Futura \
     --variable monofont=Inconsesi \
     --variable fontsize=9pt \

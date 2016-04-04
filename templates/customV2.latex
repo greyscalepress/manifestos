@@ -8,7 +8,7 @@
   paperheight=6.875in,
   paperwidth=4.25in, 
   top = 1.8cm, 
-  bottom = 1.2cm, 
+  bottom = 1.4cm, 
   left = 2cm, 
   right = 1.2cm, 
   footskip = 0.8cm, 
@@ -78,7 +78,17 @@ $endif$
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
   \newcommand{\euro}{€}
 $if(mainfont)$
-    \setmainfont{$mainfont$}
+  \setmainfont[
+  $if(boldfont)$
+    BoldFont={$boldfont$}, 
+  $endif$
+  $if(italicfont)$
+    ItalicFont={$italicfont$},
+  $endif$
+  $if(bolditalicfont)$
+    BoldItalicFont={$bolditalicfont$}
+  $endif$
+ ]{$mainfont$}
 $endif$
 $if(sansfont)$
     \setsansfont{$sansfont$}
