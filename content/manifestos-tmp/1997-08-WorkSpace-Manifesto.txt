@@ -1,11 +1,13 @@
 To: nettime-l@Desk.nl Subject: <nettime> WorkSpace Manifesto
 From: Geert Lovink <geert@xs4all.nl> (by way of Pit Schultz <pit@contrib.de>)
 Date: Sun, 17 Aug 1997 00:25:51 +0200
+
 note: This text was written for the presentation of WorkSpace in the Documenta Halle in Kassel/Germany which took place on August 14, 1997 as a part of the 100 days program. We heard only two days in advance that the free slot would be available for us. The only text about Hybrid Workspace was written by a number of people, in a great hurry, just before the final deadline of the Documenta X shortguide, in May. For this improvised presentation, for the first time we looked into the growing audio, video and text archive of the WorkSpace project. We also thought it would be necessary to also have more theoretical text, a first attempt to reflect on the work we are doing here in Kassel. In the second part, the tactical media network presented their work. Special guest was the Colombian videomaker Silvia Mehija. You can see the lecture in real video: http://www.mediaweb-tv.com/english/dx/gaeste_frame.html + more audio stuff: http://www.icf.de/RIS
 
 -------
 
-First Analysis of the temporary WorkSpaces
+# First Analysis of the temporary WorkSpaces
+
 By Pit Schultz and Geert Lovink
 
 For the Hybrid WorkSpace presentation
