@@ -1,10 +1,8 @@
-# Art after failure: an artistic manifesto from the city of Bangalore
+# Art after failure
 
-by [IOCOSE](http://www.iocose.org) (Ruffino P., Cremonesi M., Cuttica F., Prati D.), available online at this [URL](http://iocose.org/art-after-failure/index.html)
+## an artistic manifesto from the city of Bangalore
 
-*Originally published in Ghidini, M. and Kelton, T. (2015), Silicon Plateau Vol-1, T.A.J. Residency and SKE Projects, Bangalore: India*
-
-## Two justifications
+### Two justifications
 
 This piece has the purpose of providing two extensive justifications. First, it attempts to explain why we, as a collective, have spent a period of artistic research in Bangalore, India. Bangalore is in fact undoubtedly far from the main geographical area where our work is normally based (that is Europe and the so called Western world, for the most part). Secondly, it proposes to justify our presence in the context of contemporary artistic production. This text is a report of our trip and a manifesto of our practice, both of which will merge together to justify our place and role in the world.
 
@@ -16,7 +14,7 @@ Finally, Post Fail might mean, perhaps with a slightly ironical twist, that we, 
 
 So, why Bangalore? Why does this city matter in the theorisation of the Post Fail? We want to argue that Bangalore is an excellent example to understand and experience the importance of living, thinking and being **after failure**. In Bangalore the present moments in which the promises about the future of the city are enunciated and narrated matter more than anything else. The present of Bangalore is determined, in its architectural and urbanistic developments and through the introduction of businesses in the area, by a specific vision of the future. From what we experienced, this idea of the future generates immediate contradictions and inequalities, and quite interestingly most of these developments are carried out in the name of the corporations that invest in information technologies. Internet businesses are not just part of the city of Bangalore, but are the engine that drives the city towards a promised future. As Nair (2005) put it in the title of his text, Bangalore offers the ‘promise of the metropolis’. We like to look at Bangalore as a perfect occasion to investigate the present of such promises of technological and economic development, and to remind ourselves that these promises matter, are made of glass and steel that happens now, they move people, money and internet cables around the world that we live today. Through the notion of Post Fail we intend to respond to all this.
 
-## A city within a city
+### A city within a city
 
 What made Bangalore interesting for us was not the city itself, but the other city that lies within the city of Bangalore. This city-within-a-city is known as the Electronic City, or E-city. The E-city has been developing since the early 1980s and flourished in the last two decades. It consists of three areas, called Phase 1, 2 and 3, denominations for the successive stages of expansion that the E-city has undergone so far. The E-city hosts buildings and offices of the most important IT companies of the world. Its main purpose is to provide a safe and separated place where IT companies would base their businesses while being far from the problems (traffic, smog, etc.) that Bangalore has.
 
@@ -36,7 +34,7 @@ It is quite clear from a few visits that in Bangalore Internet still *matters*. 
 
 Indeed, the contradictions of Bangalore are not more or less profound than those one can also find in European societies, where the four of us are born and raised and are currently living. However, here in Bangalore these are immediately visible to our foreign eyes. One could just look at the configuration of the city to see how the presence of IT industries is shaping the metropolis. Most of the development of Bangalore is driven by the E-city. In Bangalore, Internet is not strictly speaking a new thing, but incessantly produces new highways, skyscrapers and enclosed communities.
 
-## The problem with the new things
+### The problem with the new things
 
 > Not to lie about the future is impossible and one can lie about it at will
 
@@ -50,7 +48,7 @@ The narrative of the future that is changing the city of Bangalore suggests, for
 
 Bangalore is a clear example of a future that happens in the present time, and with tangible effects. The linearity of technological, economic and social progress is presented by specific actors who often have specific interests. And the idea of a post-whatever works in a similar way. As theoretical gesture, the post-whatever tells us the story of a historical development along with that of an imaginary future towards which a certain number of people are heading. Any post-whatever, when used to delineate a linear historical narrative of cause-effect relations, imagines time as following a clear progressive path, from the past towards a future condition.
 
-## The problem with the Post-Internet
+### The problem with the Post-Internet
 
 Discourses around post-whatever of any kind need to be interpreted within a political critique. And since our role of artists we want to contextualise our presence and role in the context of contemporary artistic production in relation to another post-whatever, the Post-Internet discourse.
 
@@ -66,7 +64,7 @@ What we are arguing is that Post-Internet as a movement, as varied and complex a
 
 For these reasons we are much more comfortable with less authoritative claims and less generalising perspectives. Bangalore shows that Internet is not a fact that we all share, and not in the same way. It generates different things, for different people, depending on where they live, what their social status is, and what sort of access to education they have.
 
-## Being Post Fail: Art after failure
+### Being Post Fail: Art after failure
 
 What does it mean then, to be Post Fail? We propose a sort of manifesto, which also works as guideline and summary:
 Being Post Fail and doing art after failure means:
@@ -76,11 +74,11 @@ Being Post Fail and doing art after failure means:
 * To accept the ethical challenge of doing art while recognising the limitations of one’s own position in the world and in history, yet while still saying something about the other possibilities in which our own present might also be.
 * To do art as if being DJs at a party, but DJs who are already feeling the hangover of that same party. These DJs-with-an-headache have the imperative to keep the music going: they have to take care somehow of the tension towards the collective joy of the party while knowing that, surely, everyone will leave and go in a separate direction at the very end. Doing art Post Fail means asking ourselves the question of what music is appropriate to play in such context, how to respect own one’s headache while giving an interesting (and possibly enjoyable) experience.
 
-There are several examples of this attitude in our production. To mention a few, the [NoTube Contest](http://iocose.org/works/notube.html) series for instance offers an award to who manages to find the most valueless video on YouTube. It is about the incredible amount of useless videos published and saved on YouTube, it acknowledges that YouTube is also, and maybe mostly about those useless videos with zero views, and yet tries to take care of these same videos with no value, of respecting and re-evaluating them for what they are.
+There are several examples of this attitude in our production. To mention a few, the *[NoTube Contest](http://iocose.org/works/notube.html)* series for instance offers an award to who manages to find the most valueless video on YouTube. It is about the incredible amount of useless videos published and saved on YouTube, it acknowledges that YouTube is also, and maybe mostly about those useless videos with zero views, and yet tries to take care of these same videos with no value, of respecting and re-evaluating them for what they are.
 
-The [In Times of Peace](http://iocose.org/works/in_times_of_peace.html) series imagines the life of a drone in a fictional time when war and terror are over. The impossibility of imagining such life is a way of reflecting on the difficulty of envisioning a time of peace. Yet the project takes care of such imagining an impossible future by dignifying a lonely drone which at least tries to do something for itself (such as running a 100 meters race, or taking selfies).
+The *[In Times of Peace](http://iocose.org/works/in_times_of_peace.html)* series imagines the life of a drone in a fictional time when war and terror are over. The impossibility of imagining such life is a way of reflecting on the difficulty of envisioning a time of peace. Yet the project takes care of such imagining an impossible future by dignifying a lonely drone which at least tries to do something for itself (such as running a 100 meters race, or taking selfies).
 
-The series [A Contemporary Portrait of the Internet Artist](http://iocose.org/works/a_contemporary_portrait_of_the_internet_artist.html) offers a glimpse on the multiple meanings of making art, nowadays, in the so-called age of the Internet. It also exposes the not so enthusiastic reality of what many artists do nowadays (such as crowd/outsourcing work, working at the boundaries of copyright infringement, exploiting or being exploited by other artists and companies, etc.). The series tries to imagine how such a complex network of relations that come to be associated with 'Internet art' could be represented in a portrait, still using those same numerous forms of production and consumption that online technologies allow.
+The series *[A Contemporary Portrait of the Internet Artist](http://iocose.org/works/a_contemporary_portrait_of_the_internet_artist.html)* offers a glimpse on the multiple meanings of making art, nowadays, in the so-called age of the Internet. It also exposes the not so enthusiastic reality of what many artists do nowadays (such as crowd/outsourcing work, working at the boundaries of copyright infringement, exploiting or being exploited by other artists and companies, etc.). The series tries to imagine how such a complex network of relations that come to be associated with 'Internet art' could be represented in a portrait, still using those same numerous forms of production and consumption that online technologies allow.
 
 The photographic series we created for Silicon Plateau 1, Elevated Bangalore, also reflects these approaches and acts as a proposal for an art after failure. The series is an evidently distorted reportage from the city of Bangalore. In the photos, one sees buildings, vehicles and constructions of different sorts (including the Elevated Highway) stretched towards the sky. It is the dream of an elevated Bangalore that we propose to take as literally as possible, by lengthening (or enlightening, as Microsoft Word's AutoCorrect is now suggesting?) even the most humble rickshaw of the Indian driver who might be dreaming of achieving, one day, the elevation so noticeably promoted by the billboards all over Bangalore.
 
@@ -102,3 +100,8 @@ Quaranta, D. (2015) 'Situating Post Internet', in Media Art. Toward a New Defini
 
 Vierkant, A. (2010) 'The Image Object Post-Internet', available at [artievierkant.com/writing.php](http://www.artievierkant.com/writing.php) [Last accessed 13/03/2015]
 
+---
+
+by [IOCOSE](http://www.iocose.org) (Ruffino P., Cremonesi M., Cuttica F., Prati D.), available online at this [URL](http://iocose.org/art-after-failure/index.html)
+
+*Originally published in Ghidini, M. and Kelton, T. (2015), Silicon Plateau Vol-1, T.A.J. Residency and SKE Projects, Bangalore: India*
