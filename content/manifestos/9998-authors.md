@@ -20,7 +20,7 @@ Listed in alphabetical order.
 
 **Loyd Blankenship** (a.k.a. The Mentor) - author of *The Hacker’s Manifesto* (1986).
 
-**Cody Brocious (Daeken)** - author of the Hardware Hacker Manifesto (2010).
+**Cody Brocious (Daeken)** - author of the *Hardware Hacker Manifesto* (2010).
 
 **Chaos Computer Club e.V.** - association of computer enthousiasts, author of the *Hackerethik* (1999).
 
