@@ -55,10 +55,10 @@ END {
 ## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
 
 pandoc -f markdown -o $OUTPUT --template=../templates/customV2 $TEMP --latex-engine=xelatex \
-    --variable mainfont="Roboto" \
-    --variable boldfont="Roboto Bold" \
-    --variable italicfont="Roboto Italic" \
-    --variable bolditalicfont="Roboto Bold Italic" \
+    --variable mainfont="HKGrotesk-Regular" \
+    --variable boldfont="LinLibertineOB" \
+    --variable italicfont="LinLibertineOI" \
+    --variable bolditalicfont="LinLibertineOBI" \
     --variable sansfont=Futura \
     --variable monofont=Inconsesi \
     --variable fontsize=9pt \

@@ -10,8 +10,11 @@ Built with Markdown, Pandoc and TeX\\*
 Cover designed with Scribus
 
 Typefaces\\*
-Cover: Limousine, by OSP Foundry\\*  
-Interior: Monoid, by Andreas Larsen
+Cover: 
+Limousine, by OSP Foundry\\*  
+Interior: 
+HK Grotesk, by Alfredo Marco Pradil
+Linux Libertine, by Philipp H. Poll
 
 Greyscale Press\\*
 ISBN-13: 978-2-940561-02-5
