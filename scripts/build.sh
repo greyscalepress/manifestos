@@ -11,7 +11,7 @@ INPUT="../content/meta.txt ../content/manifestos/*.*" ## ../content/intro.txt
 TEMP="../temp/newfile.txt"
 TEMP2="../temp/newfile2.txt"
 
-TIMESTAMP=$(date +"%s")
+TIMESTAMP=$(date --utc +%Y%m%d_%H%M%SZ)
 OUTPUT="../output/output-"$TIMESTAMP".pdf"
 
 
