@@ -3,7 +3,9 @@
 NOTE: Anyone can sign The Wireless Commons Manifesto
 (http://dev.wirelesscommons.org/node.php?id=2). Charter signatories: Adam
 Shand (Personal Telco), Bruce Potter (CAWNet), Paul Holman (Shmoo Group)
-and Cory Doctorow (EFF). ---- We have formed the Wireless Commons because
+and Cory Doctorow (EFF).
+
+We have formed the Wireless Commons because
 a global wireless network is within our grasp. We will work to define and
 achieve a wireless commons built using shared spectrum, and able to
 connect people everywhere. We believe there is value to an independent and
@@ -73,10 +75,10 @@ social, political and technical challenges we face. You will provide the
 resources your community consumes by co-operating with total strangers to
 build the network that we all dream of.
 
-jon lebkowsky
-http://www.weblogsky.com
+jon lebkowsky    
+http://www.weblogsky.com    
 jonl@weblogsky.com
 
-----
+Source: 
 
-Source: http://fc.retecivica.milano.it/Reti%20Civiche/S03B1354A-03B13768?WasRead=1
+http://fc.retecivica.milano.it/Reti%20Civiche/S03B1354A-03B13768?WasRead=1

@@ -109,6 +109,9 @@ For technology to be a force for good, it should genuinely make its users more i
 The Zero Dollar Laptop Manifesto was written by James Wallbank in September 2007. The manfesto and its associated notes are published under a Creative Commons Attribution-Share Alike 2.0 UK: England & Wales License. \url{http://creativecommons.org/licenses/by-sa/2.0/uk/}
 
 
-Sources: 
-\url{https://robvankranenburgs.wordpress.com/2007/10/11/james-wallbank-says-the-zero-dollar-laptop-manifesto/}
-\url{https://jaromil.dyne.org/journal/zero_dollar_laptop.html}
+Sources:   
+
+https://robvankranenburgs.wordpress.com/2007/    
+10/11/james-wallbank-says-the-zero-dollar-laptop-manifesto/
+
+https://jaromil.dyne.org/journal/zero_dollar_laptop.html

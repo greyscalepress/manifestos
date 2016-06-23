@@ -11,7 +11,7 @@ so... here it is:
 We value:
 
 1. **Contributors and facilitators** over ‘editors’ and ‘authors’
-2. **Collaboration* over indiviualised production
+2. **Collaboration** over indiviualised production
 3. **Here and now production** over sometime soon production
 4. **Meaningful credit** for all contributors over single author attribution
 
