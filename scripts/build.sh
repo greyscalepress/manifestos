@@ -11,9 +11,16 @@ INPUT="../content/meta.txt ../content/manifestos/*.*" ## ../content/intro.txt
 TEMP="../temp/newfile.txt"
 TEMP2="../temp/newfile2.txt"
 
-TIMESTAMP=$(date +"%s")
-OUTPUT="../output/output-"$TIMESTAMP".pdf"
+##TIMESTAMP=$(date +"%s")
+TIMESTAMP=$(date --utc +%Y%m%d_%H%M%SZ)
+OUTPUT="../output/Manifestos_for_the_Internet_Age-"$TIMESTAMP".pdf"
 
+if [ ! -d ~/.fonts ]; then
+  mkdir ~/.fonts
+fi
+
+##cp ../fonts/*.otf ~/.fonts/
+##fc-cache -fv
 
 ## 2: AWK Method
 
@@ -54,18 +61,16 @@ END {
 ## Monoid - by Andreas Larsen
 ## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
 
-pandoc -f markdown -o $OUTPUT --template=../templates/customV2 $TEMP --latex-engine=xelatex \
+pandoc -f markdown --template=../templates/customV2 $TEMP --latex-engine=xelatex \
     --variable mainfont="HKGrotesk-Regular" \
     --variable boldfont="LinLibertineOB" \
     --variable italicfont="LinLibertineOI" \
-    --variable bolditalicfont="LinLibertineOBI" \
-    --variable sansfont=Futura \
-    --variable monofont=Inconsesi \
     --variable fontsize=9pt \
     --variable urlcolor=black \
     --variable linkcolor=black \
     --variable documentclass=book \
     --toc --toc-depth=1 \
-    --include-before-body=../content/intro.txt
+    --include-before-body=../content/intro.txt \
+    -o $OUTPUT
 
 ## End of file
