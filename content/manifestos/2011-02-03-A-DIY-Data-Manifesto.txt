@@ -17,7 +17,7 @@ poet - can learn technology.
 
 Winer wants to demystify the server. "Engineers sometimes mystify what  
 they do, as a form of job security," writes Winer, "I prefer to make  
-light of it… it was easy for me, why shouldn't it be easy for everyone?"
+light of it... it was easy for me, why shouldn't it be easy for everyone?"
 
 To show you just how easy it is to set up and run a server, Winer has  
 put together an easy-to-follow tutorial so you too can set up a  
