@@ -1,0 +1,37 @@
+# User Data Manifesto v2.0
+
+This manifesto aims at defining users’ fundamental rights to their own data in the Internet age. People ought to be free and should not have to pay allegiance to service providers.
+
+    User data means any data uploaded by a user for his or her own use.
+
+Thus, users should have:
+
+    Control over user data access
+
+    User data should be under the ultimate control of the user. Users should be able to decide whom to grant direct access to their data and with which permissions and licenses such access should be granted.
+
+    Data generated or associated with user data (e.g. metadata) should also be made available to that user and put under their control just like the user data itself.
+
+    Knowledge of how user data is stored
+
+    When user data is uploaded to a specific service provider, users should be informed about the geographic location that specific service provider stores the data in, how long, in which jurisdiction that specific service provider operates and which laws apply.
+
+    This point is not relevant when users are able to store their own data on devices in their vicinity and under their direct control (e.g. servers) or when they rely on systems without centralised control (e.g. peer-to-peer).
+
+    Freedom to choose a platform
+
+    Users should always be able to extract their data from the service at any time without experiencing any vendor lock-in.
+
+If users have these rights, they are in control of their data rather than being subjugated by service providers.
+
+Many services that deal with user data at the moment are gratis, but that does not mean they are free (as in freedom). Instead of paying with money, users are paying with their allegiance to the service providers so that they can exploit user data (e.g. by selling them, licensing them or building a profile for advertisers).
+
+Surrendering privacy and other rights in this way may seem to many people a trivial thing and a small price to pay for the sake of convenience that these Internet services bring.
+
+Service providers have thus been unwittingly compelled to turn their valuable Internet services into massive and centralised surveillance systems. It is of grave importance that people understand and realize this, since it forms a serious threat to the freedom of humanity and to the privacy of each individual.
+
+Ultimately, to ensure that user data is under the users’ control, the best technical designs include peer-to-peer or distributed systems, and unhosted applications. Legally, that means terms of service should respect users’ rights and give them the possibility to exercise the datarights defined in this manifesto.
+
+----
+
+Source: https://userdatamanifesto.org/

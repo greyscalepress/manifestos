@@ -14,7 +14,7 @@ our nectar is not just a lure
 or a trap for passing flies   
 but a self indulgent intrapersonal biofeedback mechanism spelled in emoji and gentle selfies.
 
-![the cybertwee manifesto](../content/manifestos-img/2014-cybertwee-manifesto.gif)
+![the cybertwee manifesto](../content/manifestos-img/2014-cybertwee-manifesto.png)
 
 ---
 
