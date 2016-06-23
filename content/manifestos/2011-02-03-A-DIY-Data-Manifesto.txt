@@ -5,7 +5,7 @@ The word "server" is enough to send all but the hardiest nerds
 scurrying for cover.
 The word usually conjures images of vast, complex data farms,  
 databases and massive infrastructures. True, servers are all those  
-things — but at a more basic level, they're just like your desktop PC.
+things - but at a more basic level, they're just like your desktop PC.
 
 Running a server is no more difficult than starting Windows on your  
 desktop. That's the message Dave Winer, forefather of blogging and  
