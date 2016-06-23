@@ -53,7 +53,7 @@ would choose a DIY path if they realized it wasn't that difficult.
 
 Winer isn't the only one who believes the future of the web will be  
 distributed systems that aren't controlled by any single corporation  
-or  technology platform. Microformats founder Tantek Çelik is also  
+or  technology platform. Microformats founder Tantek Celik is also  
 working on a distributed publishing system that seeks to retain all  
 the cool features of the social web, but remove the centralized  
 bottleneck.
