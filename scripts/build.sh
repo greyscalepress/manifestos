@@ -61,7 +61,8 @@ END {
 ## Monoid - by Andreas Larsen
 ## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
 
-pandoc -f markdown --template=../templates/customV2 $TEMP --latex-engine=xelatex \
+pandoc -f markdown --template=../templates/customV2 $TEMP \
+	--latex-engine=xelatex \
     --variable mainfont="HKGrotesk-Regular" \
     --variable boldfont="LinLibertineOB" \
     --variable italicfont="LinLibertineOI" \
@@ -70,6 +71,7 @@ pandoc -f markdown --template=../templates/customV2 $TEMP --latex-engine=xelatex
     --variable linkcolor=black \
     --variable documentclass=book \
     --toc --toc-depth=1 \
+    --listings \
     --include-before-body=../content/intro.txt \
     -o $OUTPUT
 
