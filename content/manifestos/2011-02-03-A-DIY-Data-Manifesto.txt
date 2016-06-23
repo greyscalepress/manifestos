@@ -28,7 +28,7 @@ about anyone up and running with their own server.
 In that sense Winer's EC2 for Poets if already a success, but  
 education and empowerment aren't Winer's only goals. "I think it's  
 important to bust the mystique of servers," says Winer, "it's  
-essential if we're going to break free of the ‘corporate blogging  
+essential if we're going to break free of the 'corporate blogging  
 silos.'"
 
 The corporate blogging silos Winer is thinking of are services like  
