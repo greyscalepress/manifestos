@@ -12,8 +12,8 @@ desktop. That's the message Dave Winer, forefather of blogging and
 creator of RSS, is trying to get across with his EC2 for Poets  
 project. The name comes from Amazon's EC2 service and classes common  
 in liberal arts colleges, like programming for poets or computer  
-science for poets. The theme of such classes is that anyone — even a  
-poet — can learn technology.
+science for poets. The theme of such classes is that anyone - even a  
+poet - can learn technology.
 
 Winer wants to demystify the server. "Engineers sometimes mystify what  
 they do, as a form of job security," writes Winer, "I prefer to make  
@@ -63,8 +63,8 @@ the web will need an army of distributed servers run by hobbyists,
 not  just tech-savvy web admins, but ordinary people who love the web  
 and want to experiment.
 
-So while you can get your EC2 server up and running today — and even  
-play around with Winer's River2 news aggregator — the real goal is  
+So while you can get your EC2 server up and running today - and even  
+play around with Winer's River2 news aggregator - the real goal is  
 further down the road. Winer's vision is a distributed web where  
 everything is loosely coupled. "For example," Winer writes, "the roads  
 I drive on with my car are loosely-coupled from the car. I might drive  
@@ -84,12 +84,12 @@ you write with the tools of your choice and publish to your own server.
 If everyone publishes first to their own server there's no single  
 point of failure. There's no fail whale, and no company owns your  
 data. Once the content is on your server you can then push it on to  
-wherever you'd like — Twitter, Tumblr, WordPress of whatever the site  
+wherever you'd like - Twitter, Tumblr, WordPress of whatever the site  
 du jour is ten years from now.
 
 The glue that holds this vision together is RSS. Winer sees RSS as the  
 ideal broadcast mechanism for the distributed web and in fact he's  
-already using it — Winer has an RSS feed of links that are then pushed  
+already using it - Winer has an RSS feed of links that are then pushed  
 on to Twitter. No matter what tool he uses to publish a link, it's  
 gathered up into a single RSS feed and pushed on to Twitter.
 
