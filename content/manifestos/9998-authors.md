@@ -20,6 +20,8 @@ Listed in alphabetical order.
 
 **Loyd Blankenship** (a.k.a. The Mentor) - author of *The Hacker’s Manifesto* (1986).
 
+**Jörg Blumtritt** - co-author of the *Slow Media Manifesto* (2010).
+
 **Cody Brocious (Daeken)** - author of the *Hardware Hacker Manifesto* (2010).
 
 **Chaos Computer Club e.V.** - association of computer enthousiasts, author of the *Hackerethik* (1999).
@@ -34,6 +36,8 @@ Listed in alphabetical order.
 
 **Piotr Czerski** - author of *We, the Web Kids* (orig: "My, dzieci sieci", 2012).
 
+**Sabria David** - co-author of the *Slow Media Manifesto* (2010).
+
 **Malte Dik** - co-author of the *CryptoParty Manifesto* (2012).
 
 **Constant Dullaart** - artist, author of *Balconism* (2014). Constant Dullaart is a former resident of the Rijksakademie in Amsterdam, living and working mostly in Berlin. His work often deals with the effects and affects of contemporary communication and mass media, both online and offline. http://constantdullaart.com 
@@ -46,7 +50,11 @@ Listed in alphabetical order.
 
 **Violet Forest** - artist, co-author of the *cybertwee manifesto* (2014).
 
+**David Garcia** - co-author of the *ABC of Tactical Media* (1997).
+
 **Jan Gerber** - co-author of the *CryptoParty Manifesto* (2012).
+
+**Scott Gilbertson** - author of the *DIY Data Manifesto* (2011).
 
 **Casey Gollan** - author of *The Perfect Medium User* (2016). @caseyg
 
@@ -82,15 +90,21 @@ Listed in alphabetical order.
 
 **Bill Kerr** - curator of *Mark Shuttleworth’s Ubuntu manifesto* (2007).
 
+**Benedikt Köhler** - co-author of the *Slow Media Manifesto* (2010).
+
 **René König**, Karlsruhe Institute of Technology. Co-initator of the *Open Web Index Manifesto* (2015). 
 
 **Kopimi** - collective, author of *POwr, Broccoli and Kopimi* (2009).
 
 **Agata Królikowski**, Leuphana University of Lüneburg. Co-initator of the *Open Web Index Manifesto* (2015). 
 
+**Jon Lebkowsky** - Author of the *Wireless Commons Manifesto* (2002).
+
 **Prof. Dr. Dirk Lewandowski** - Hamburg University of Applied Sciences. Co-initator of the *Open Web Index Manifesto* (2015).
 
 **Olia Lialina** - artist, author of the *Bill Of Computer Users Rights* (2013).
+
+**Geert Lovink** - co-author of the *ABC of Tactical Media* (1997).
 
 **Miltos Manetas** - artist, author of the *Piracy Manifesto* (2009).
 
@@ -118,9 +132,13 @@ Listed in alphabetical order.
 
 **Chris Pinchen** - co-author of the *CryptoParty Manifesto* (2012).
 
+**Marie Ringler** - poster of the *Piran Nettime Manifesto* (1997).
+
 **Evan Roth** - artist, co-author of *We Lost* (2015).
 
 **Daniel Rourke** - artist, co-author of *The 3D Additivist Manifesto* (2015).
+
+**Hugo Roy** - author of the *User Data Manifesto v2.0* (2015).
 
 **Dr. Wolfgang Sander-Beuermann**, SUMA-EV. Co-initator of the *Open Web Index Manifesto* (2015). 
 

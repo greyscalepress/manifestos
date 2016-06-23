@@ -1,0 +1,82 @@
+# The Wireless Commons Manifesto
+
+NOTE: Anyone can sign The Wireless Commons Manifesto
+(http://dev.wirelesscommons.org/node.php?id=2). Charter signatories: Adam
+Shand (Personal Telco), Bruce Potter (CAWNet), Paul Holman (Shmoo Group)
+and Cory Doctorow (EFF). ---- We have formed the Wireless Commons because
+a global wireless network is within our grasp. We will work to define and
+achieve a wireless commons built using shared spectrum, and able to
+connect people everywhere. We believe there is value to an independent and
+global network which is open to the public. We will break down commercial,
+technical, social and political barriers to the commons. The wireless
+commons bridges one of the few remaining gaps in universal communication
+without interference from middlemen and meddlers.
+
+Humanity is on the verge of a turning point because the Internet has
+transformed the way humans relate with one another. All communication can
+be traced to a human relationship, whether it's lovers exchanging instant
+messages or teenagers sharing music. The Internet has given us the ability
+to communicate faster and more cheaply than ever before in history.
+
+The Internet's value increases exponentially with the number of people who
+are able to participate. In today's world, communication can take place
+without the use of antiquated telecommunications networks. The
+organizations that control these networks are limping anachronisms that
+are constrained by the expense and physical necessity of using wires to
+build their networks. Because of this, they cannot serve the great mass of
+people who stand to benefit from a wireless commons. Their interests
+diverge from ours, and their control over the network strangles our
+ability to communicate.
+
+Low-cost wireless networking equipment which can operate in unlicensed
+bands of the spectrum has started another revolution. Suddenly, ordinary
+people have the means to create a network independent of any physical
+constraint except distance. Wireless can travel through walls, across
+property boundaries and through a community. Many communities have formed
+worldwide to help organize these networks. They are forming the basis for
+the removal of the traditional telecommunication networks as an
+intermediary in human communication.
+
+The challenge facing community networks is the one limiting factor of
+wireless communication: distance. The relationships that can be formed
+across a community wireless network are limited by their physical reach.
+Typically these networks are growing to the size of a city, and growth
+beyond that point requires coordination and a strategic vision for
+community wireless networks as a whole. Without this coordination, it is
+hard to see how the worldwide community of wireless networking groups will
+ever merge their systems and create a true alternative to existing
+telecommunication networks.
+
+There are many barriers to the creation of a global network. So far, the
+focus has been on identifying the technical barriers and developing
+methods to overcome them. But technical problems are the least of our
+worries, the business, political and social issues are the real challenges
+facing community networks. Hardware and software vendors need to
+understand the business rationale for implementing our technical
+solutions. Politicians need to understand our requirements for universal
+access to unlicensed spectrum. The public needs to understand that the
+network exists and how to get access. Unless these problems are identified
+and addressed, the community wireless movement will never have influence
+beyond a local level.
+
+Most importantly, the network needs to be accessible to all and
+provisioned by everyone who can provide. By adding enough providers to the
+network, we can bridge the physical gaps imposed by the range of our
+equipment. The network is a finite resource which is owned and used by the
+public, and as such it needs to be nurtured by the public. This, by its
+very nature, is a commons.
+
+Becoming a part of the commons means being more than a consumer. By
+signing your name below, you become an active participant in a network
+that is far more than the sum of its users. You will strive to solve the
+social, political and technical challenges we face. You will provide the
+resources your community consumes by co-operating with total strangers to
+build the network that we all dream of.
+
+jon lebkowsky
+http://www.weblogsky.com
+jonl@weblogsky.com
+
+----
+
+Source: http://fc.retecivica.milano.it/Reti%20Civiche/S03B1354A-03B13768?WasRead=1
