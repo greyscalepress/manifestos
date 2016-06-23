@@ -1,98 +1,46 @@
 # A DIY Data Manifesto
-## By Scott Gilbertson
 
-The word "server" is enough to send all but the hardiest nerds  
-scurrying for cover.
-The word usually conjures images of vast, complex data farms,  
-databases and massive infrastructures. True, servers are all those  
-things - but at a more basic level, they're just like your desktop PC.
+By Scott Gilbertson
 
-Running a server is no more difficult than starting Windows on your  
-desktop. That's the message Dave Winer, forefather of blogging and  
-creator of RSS, is trying to get across with his EC2 for Poets  
-project. The name comes from Amazon's EC2 service and classes common  
-in liberal arts colleges, like programming for poets or computer  
-science for poets. The theme of such classes is that anyone - even a  
-poet - can learn technology.
+The word "server" is enough to send all but the hardiest nerds scurrying for cover.    
+The word usually conjures images of vast, complex data farms, databases and massive infrastructures. True, servers are all those things - but at a more basic level, they're just like your desktop PC.
 
-Winer wants to demystify the server. "Engineers sometimes mystify what  
-they do, as a form of job security," writes Winer, "I prefer to make  
-light of it... it was easy for me, why shouldn't it be easy for everyone?"
+Running a server is no more difficult than starting Windows on your desktop. That's the message Dave Winer, forefather of blogging and creator of RSS, is trying to get across with his EC2 for Poets project. The name comes from Amazon's EC2 service and classes common in liberal arts colleges, like programming for poets or computer science for poets. The theme of such classes is that anyone - even a poet - can learn technology.
 
-To show you just how easy it is to set up and run a server, Winer has  
-put together an easy-to-follow tutorial so you too can set up a  
-Windows-based server running in the cloud. Winer uses Amazon's EC2  
-service. For a few dollars a month, Winer's tutorial can have just  
-about anyone up and running with their own server.
+Winer wants to demystify the server. "Engineers sometimes mystify what they do, as a form of job security," writes Winer, "I prefer to make light of it... it was easy for me, why shouldn't it be easy for everyone?"
 
-In that sense Winer's EC2 for Poets if already a success, but  
-education and empowerment aren't Winer's only goals. "I think it's  
-important to bust the mystique of servers," says Winer, "it's  
-essential if we're going to break free of the 'corporate blogging  
-silos.'"
+To show you just how easy it is to set up and run a server, Winer has put together an easy-to-follow tutorial so you too can set up a Windows-based server running in the cloud. Winer uses Amazon's EC2 service. For a few dollars a month, Winer's tutorial can have just about anyone up and running with their own server.
 
-The corporate blogging silos Winer is thinking of are services like  
-Twitter, Facebook and WordPress. All three have been instrumental in  
-the growth of the web, they make it easy for anyone publish. But they  
-also suffer denial of service attacks, government shutdowns and  
-growing pains, centralized services like Twitter and Facebook are  
-vulnerable. Services wrapped up in a single company are also  
-vulnerable to market whims, Geocities is gone, FriendFeed languishes  
-at Facebook and Yahoo is planning to sell Delicious. A centralized web  
-is brittle web, one that can make our data, our communications tools  
-disappear tomorrow.
+In that sense Winer's EC2 for Poets if already a success, but education and empowerment aren't Winer's only goals. "I think it's important to bust the mystique of servers," says Winer, "it's essential if we're going to break free of the 'corporate blogging silos.'"
 
-But the web will likely never be completely free of centralized  
-services and Winer recognizes that. Most people will still choose  
-convenience over freedom. Twitter's user interface is simple, easy to  
-use and works on half a dozen devices.
+The corporate blogging silos Winer is thinking of are services like Twitter, Facebook and WordPress. All three have been instrumental in the growth of the web, they make it easy for anyone publish. But they also suffer denial of service attacks, government shutdowns and growing pains, centralized services like Twitter and Facebook are vulnerable. Services wrapped up in a single company are also vulnerable to market whims, Geocities is gone, FriendFeed languishes at Facebook and Yahoo is planning to sell Delicious. A centralized web is brittle web, one that can make our data, our communications tools disappear tomorrow.
 
-Winer doesn't believe everyone will want to be part of the distributed  
-web, just the dedicated. But he does believe there are more people who  
-would choose a DIY path if they realized it wasn't that difficult.
+But the web will likely never be completely free of centralized services and Winer recognizes that. Most people will still choose convenience over freedom. Twitter's user interface is simple, easy to use and works on half a dozen devices.
 
-Winer isn't the only one who believes the future of the web will be  
-distributed systems that aren't controlled by any single corporation  
-or  technology platform. Microformats founder Tantek Celik is also  
-working on a distributed publishing system that seeks to retain all  
-the cool features of the social web, but remove the centralized  
-bottleneck.
+Winer doesn't believe everyone will want to be part of the distributed web, just the dedicated. But he does believe there are more people who would choose a DIY path if they realized it wasn't that difficult.
 
-But to be free of corporate blogging silos and centralized services  
-the web will need an army of distributed servers run by hobbyists,  
-not  just tech-savvy web admins, but ordinary people who love the web  
-and want to experiment.
+Winer isn't the only one who believes the future of the web will be distributed systems that aren't controlled by any single corporation or technology platform. Microformats founder Tantek Celik is also working on a distributed publishing system that seeks to retain all the cool features of the social web, but remove the centralized bottleneck.
 
-So while you can get your EC2 server up and running today - and even  
-play around with Winer's River2 news aggregator - the real goal is  
-further down the road. Winer's vision is a distributed web where  
-everything is loosely coupled. "For example," Winer writes, "the roads  
-I drive on with my car are loosely-coupled from the car. I might drive  
-a SmartCar, a Toyota or a BMW. No matter what car I choose I am free  
-to drive on the Cross-Bronx Expressway, Sixth Avenue or the Bay Bridge."
+But to be free of corporate blogging silos and centralized services the web will need an army of distributed servers run by hobbyists, not  just tech-savvy web admins, but ordinary people who love the web and want to experiment.
 
-Winer wants to start by creating a loosely coupled, distributed  
-microblogging service like Twitter. "I'm pretty sure we know how to  
-create a micro-blogging community with open formats and protocols and  
-no central point of failure," he writes on his blog.
+So while you can get your EC2 server up and running today - and even play around with Winer's River2 news aggregator - the real goal is further down the road. Winer's vision is a distributed web where everything is loosely coupled. "For example," Winer writes, "the roads I drive on with my car are loosely-coupled from the car. I might drive a SmartCar, a Toyota or a BMW. No matter what car I choose I am free to drive on the Cross-Bronx Expressway, Sixth Avenue or the Bay Bridge."
 
-For Winer that means decoupling the act of writing from the act of  
-publishing. The idea isn't to create an open alternative to Twitter,  
-it's to remove the need to use Twitter for writing on Twitter. Instead  
-you write with the tools of your choice and publish to your own server.
+Winer wants to start by creating a loosely coupled, distributed microblogging service like Twitter. "I'm pretty sure we know how to create a micro-blogging community with open formats and protocols and no central point of failure," he writes on his blog.
 
-If everyone publishes first to their own server there's no single  
-point of failure. There's no fail whale, and no company owns your  
-data. Once the content is on your server you can then push it on to  
-wherever you'd like - Twitter, Tumblr, WordPress of whatever the site  
-du jour is ten years from now.
+For Winer that means decoupling the act of writing from the act of publishing. The idea isn't to create an open alternative to Twitter, it's to remove the need to use Twitter for writing on Twitter. Instead you write with the tools of your choice and publish to your own server.
 
-The glue that holds this vision together is RSS. Winer sees RSS as the  
-ideal broadcast mechanism for the distributed web and in fact he's  
-already using it - Winer has an RSS feed of links that are then pushed  
-on to Twitter. No matter what tool he uses to publish a link, it's  
-gathered up into a single RSS feed and pushed on to Twitter.
+If everyone publishes first to their own server there's no single point of failure. There's no fail whale, and no company owns your data. Once the content is on your server you can then push it on to wherever you'd like - Twitter, Tumblr, WordPress of whatever the site du jour is ten years from now.
+
+The glue that holds this vision together is RSS. Winer sees RSS as the ideal broadcast mechanism for the distributed web and in fact he's already using it - Winer has an RSS feed of links that are then pushed on to Twitter. No matter what tool he uses to publish a link, it's gathered up into a single RSS feed and pushed on to Twitter.
+
+![Dave Winer's RSS-centric vision of a distributed web](../content/manifestos-img/2011-winer-schema.png)
+
+Winer will be first to admit that a distributed system like he imagines is still a little ways off, but as they say, the longest journey starts with a single step. For Winer EC2 for Poets is part of that first step. If you’ve never set up your own server, don’t even really totally understand what a server is, well, time to find out. Head on over to the EC2 for Poets site and you’ll have a server up and running fifteen minutes from now. The distributed web awaits you.
 
 ----
 
-Source: https://www.mail-archive.com/nettime-l@kein.org/msg02864.html
+Source: 
+
+https://www.mail-archive.com/nettime-l@kein.org/msg02864.html
+
+http://www.webmonkey.com/2011/02/take-back-the-tubes/
