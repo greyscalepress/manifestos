@@ -1,6 +1,6 @@
 # The Slow Media Manifesto
 
-The first decade of the 21st century, the so-called ‘naughties’, has brought profound changes to the technological foundations of the media landscape. The key buzzwords are networks, the Internet and social media. In the second decade, people will not search for new technologies allowing for even easier, faster and low-priced content production. Rather, appropriate reactions to this media revolution are to be developed and integrated politically, culturally and socially. The concept “Slow”, as in “Slow Food” and not as in “Slow Down”, is a key for this. Like “Slow Food”, Slow Media are not about fast consumption but about choosing the ingredients mindfully and preparing them in a concentrated manner. Slow Media are welcoming and hospitable. They like to share.
+The first decade of the 21st century, the so-called 'naughties', has brought profound changes to the technological foundations of the media landscape. The key buzzwords are networks, the Internet and social media. In the second decade, people will not search for new technologies allowing for even easier, faster and low-priced content production. Rather, appropriate reactions to this media revolution are to be developed and integrated politically, culturally and socially. The concept "Slow", as in "Slow Food" and not as in "Slow Down", is a key for this. Like "Slow Food", Slow Media are not about fast consumption but about choosing the ingredients mindfully and preparing them in a concentrated manner. Slow Media are welcoming and hospitable. They like to share.
 
 1. Slow Media are a contribution to sustainability. Sustainability relates to the raw materials, processes and working conditions, which are the basis for media production. Exploitation and low-wage sectors as well as the unconditional commercialization of user data will not result in sustainable media. At the same time, the term refers to the sustainable consumption of Slow Media.
 
@@ -8,13 +8,13 @@ The first decade of the 21st century, the so-called ‘naughties’, has brought pro
 
 3. Slow Media aim at perfection. Slow Media do not necessarily represent new developments on the market. More important is the continuous improvement of reliable user interfaces that are robust, accessible and perfectly tailored to the media usage habits of the people.
 
-4. Slow Media make quality palpable. Slow Media measure themselves in production, appearance and content against high standards of quality and stand out from their fast-paced and short-lived counterparts – by some premium interface or by an aesthetically inspiring design.
+4. Slow Media make quality palpable. Slow Media measure themselves in production, appearance and content against high standards of quality and stand out from their fast-paced and short-lived counterparts - by some premium interface or by an aesthetically inspiring design.
 
-5. Slow Media advance Prosumers, i.e. people who actively define what and how they want to consume and produce. In Slow Media, the active Prosumer, inspired by his media usage to develop new ideas and take action, replaces the passive consumer. This may be shown by marginals in a book or animated discussion about a record with friends. Slow Media inspire, continuously affect the users’ thoughts and actions and are still perceptible years later.
+5. Slow Media advance Prosumers, i.e. people who actively define what and how they want to consume and produce. In Slow Media, the active Prosumer, inspired by his media usage to develop new ideas and take action, replaces the passive consumer. This may be shown by marginals in a book or animated discussion about a record with friends. Slow Media inspire, continuously affect the users' thoughts and actions and are still perceptible years later.
 
-6. Slow Media are discursive and dialogic. They long for a counterpart with whom they may come in contact. The choice of the target media is secondary. In Slow Media, listening is as important as speaking. Hence ‘Slow’ means to be mindful and approachable and to be able to regard and to question one’s own position from a different angle.
+6. Slow Media are discursive and dialogic. They long for a counterpart with whom they may come in contact. The choice of the target media is secondary. In Slow Media, listening is as important as speaking. Hence 'Slow' means to be mindful and approachable and to be able to regard and to question one's own position from a different angle.
 
-7. Slow Media are Social Media. Vibrant communities or tribes constitute around Slow Media. This, for instance, may be a living author exchanging thoughts with his readers or a community interpreting a late musician’s work. Thus Slow Media propagate diversity and respect cultural and distinctive local features.
+7. Slow Media are Social Media. Vibrant communities or tribes constitute around Slow Media. This, for instance, may be a living author exchanging thoughts with his readers or a community interpreting a late musician's work. Thus Slow Media propagate diversity and respect cultural and distinctive local features.
 
 8. Slow Media respect their users. Slow Media approach their users in a self-conscious and amicable way and have a good idea about the complexity or irony their users can handle. Slow Media neither look down on their users nor approach them in a submissive way.
 
@@ -22,9 +22,9 @@ The first decade of the 21st century, the so-called ‘naughties’, has brought pro
 
 10. Slow Media are timeless: Slow Media are long-lived and appear fresh even after years or decades. They do not lose their quality over time but at best get some patina that can even enhance their value.
 
-11. Slow Media are auratic: Slow Media emanate a special aura. They generate a feeling that the particular medium belongs to just that moment of the user’s life. Despite the fact that they are produced industrially or are partially based on industrial means of production, they are suggestive of being unique and point beyond themselves.
+11. Slow Media are auratic: Slow Media emanate a special aura. They generate a feeling that the particular medium belongs to just that moment of the user's life. Despite the fact that they are produced industrially or are partially based on industrial means of production, they are suggestive of being unique and point beyond themselves.
 
-12. Slow Media are progressive not reactionary: Slow Media rely on their technological achievements and the network society’s way of life. It is because of the acceleration of multiple areas of life, that islands of deliberate slowness are made possible and essential for survival. Slow Media are not a contradiction to the speed and simultaneousness of Twitter, Blogs or Social Networks but are an attitude and a way of making use of them.
+12. Slow Media are progressive not reactionary: Slow Media rely on their technological achievements and the network society's way of life. It is because of the acceleration of multiple areas of life, that islands of deliberate slowness are made possible and essential for survival. Slow Media are not a contradiction to the speed and simultaneousness of Twitter, Blogs or Social Networks but are an attitude and a way of making use of them.
 
 13. Slow Media focus on quality both in production and in reception of media content: Craftsmanship in cultural studies such as source criticism, classification and evaluation of sources of information are gaining importance with the increasing availability of information.
 
@@ -32,9 +32,9 @@ The first decade of the 21st century, the so-called ‘naughties’, has brought pro
 
 Stockdorf and Bonn, Jan 2, 2010
 
-Benedikt Köhler
+Benedikt Koehler
 Sabria David
-Jörg Blumtritt
+Joerg Blumtritt
 
 ----
 
