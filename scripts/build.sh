@@ -12,7 +12,7 @@ TEMP="../temp/newfile.txt"
 TEMP2="../temp/newfile2.txt"
 
 ##TIMESTAMP=$(date +"%s")
-TIMESTAMP=$(date --utc +%Y%m%d_%H%M%SZ)
+TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
 OUTPUT="../output/Manifestos_for_the_Internet_Age-"$TIMESTAMP".pdf"
 
 if [ ! -d ~/.fonts ]; then
