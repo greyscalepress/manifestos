@@ -22,4 +22,5 @@ Sources:
 - http://lists.flossmanuals.net/pipermail/discuss-flossmanuals.net/2012-June/007446.html
 - http://lists.flossmanuals.net/pipermail/discuss-flossmanuals.net/2012-June/007465.html
 - http://blog.booki.cc/2012/06/iterative-book-development-manifesto/
-- https://web.archive.org/web/20131225055321/http://blog.booki.cc/2012/06/iterative-book-development-manifesto/
+- https://web.archive.org/web/20131225055321/
+http://blog.booki.cc/2012/06/iterative-book-development-manifesto/
