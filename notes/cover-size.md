@@ -1,13 +1,13 @@
 # Cover format
 
-- Current number of pages: 187    
-Amazon cover specs: 
+Current number of pages: 187    
+Amazon cover specs:    
 https://www.createspace.com/Products/Book/CoverPDF.jsp
 
-Spine Width Calculation:    
+Spine Width Calculation:        
 Cream paper: multiply page count by 0.0025"
 
-Bleed settings:
+Bleed settings:    
 .125" bleed (on each side)
 
 - Minimum Cover Width: Bleed + Back Cover Trim Size + Spine Width + Front Cover Trim Size + Bleed
@@ -36,28 +36,30 @@ If you choose to provide and place your own barcode, be sure it is a high-resolu
 120 * 0.0025 = 0.3 inch    
 158 * 0.0025 = 0.395 inch
 
-## Full cover surface (including bleed): 
+## Full cover surface (including bleed):    
 height: 6.8750 (+ 0.25 bleed = 7.125")    
 width: 4.25 + 0.3 + 4.25 = 8.8 (+ 0.25 bleed = 8.25")
 
-158 pages:
-width: 4.25 + 0.395 + 4.25 = 8.895 (+ 0.25 bleed = 9.145")
+**158 pages:**    
+width: 4.25 + 0.395 + 4.25 = 8.895 (+ 0.25 bleed = 9.145")    
 start of right page: 4.25+0.395 = 4.645
 
-139 pages:
-Spine width: 139 * 0.0025 = 0.3475
-Cover width: 4.25 + 0.3475 + 4.25 = 8.8475 (+ 0.25 bleed = 9.0975")
+**139 pages:**    
+Spine width: 139 * 0.0025 = 0.3475    
+Cover width: 4.25 + 0.3475 + 4.25 = 8.8475 (+ 0.25 bleed = 9.0975")    
 Right page begins at: 4.25 + 0.3475 = 4.5975
 
-144 pages:
-Spine width: 144 * 0.0025 = 0.36 = move stuff by 0.125 to the right
-Cover width: 4.25 + 0.36 + 4.25 = 8.86 (+ 0.25 bleed = 9.11")
+**144 pages:**    
+Spine width: 144 * 0.0025 = 0.36 = move stuff by 0.125 to the right    
+Cover width: 4.25 + 0.36 + 4.25 = 8.86 (+ 0.25 bleed = 9.11")    
 Right page begins at: 4.25 + 0.36 = 4.61
 
-187 pages:
-Spine width: 187 * 0.0025 = 0.4675
-Cover width: 4.25 + 0.4675 + 4.25 = 8.9675 (+ 0.25 bleed = 9.2175")
+**187 pages:**    
+Spine width: 187 * 0.0025 = 0.4675    
+Cover width: 4.25 + 0.4675 + 4.25 = 8.9675 (+ 0.25 bleed = 9.2175")    
 Right page begins at: 4.25 + 0.4675 = 4.7175
 
-209 pages:
-Spine width: 209 
+**275 pages:**    
+Spine width: 275 * 0.0025 = 0.6875    
+Cover width: 4.25 + 0.6875 + 4.25 = 9.1875 (+ 0.25 bleed = 9.4375)     
+Right page begins at: 4.25 + 0.6875 = 4.9375    
