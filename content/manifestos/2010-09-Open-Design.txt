@@ -1,0 +1,34 @@
+# Open Design Manifesto
+
+by Ronen Kadushin
+
+In today's market-driven culture, industrial designers commit themselves to producers in order to realize their creativity. Producers, with the power to control all aspects of a product, are the gatekeepers of design creativity, deciding what and how products are available to consumers.
+
+This situation begins in Industrial design education systems that train designers to integrate into an industrial production scenario and accept that producers have the right to regulate design and indoctrinate their set of values and ends. Fresh approaches and radical views are marginalized as they do not conform with the dogmas of the Church of Industrial Design.
+
+But other creative fields that found their products in phase with the realities of the Internet and information technology (fields such as music, communication design, animation photography, text, etc.) are experiencing an unprecedented flood of freely available creative content. Industries that once dominated these fields and have not adapted to this reality are quickly becoming redundant.
+
+Enter the Open Source method, one that revolutionized the software industry, created a viable economy, and gave birth to a flourishing social movement that is community-minded, highly creative and inclusive.
+
+A revolution in product development, production and distribution is imminent due to the Internet's disruptive nature and the easy access to CNC machines. Open Design is a proposal to make this happen. It's aim is to shift Industrial Design to become relevant in a globally networked information society.
+
+***
+
+Open Design method consists of two preconditions:
+
+1. An Open Design is CAD information published online under a Creative Commons license to be downloaded, produced, copied and modified.
+2. An Open Design product is produced directly from file by CNC machines and without special tooling.
+
+These preconditions infer that all technically conforming open designs and their derivatives are continuously available for production, in any number, with no tooling investment, anywhere and by anyone.
+
+***
+
+A new product and services market is a natural outcome of a network of designers, manufacturers, consumers and retailers using a common pool of open designs.
+
+The designer should always be acknowledged as the original creator and owner of the design, even in case of a derivative design. If an open design is produced for commercial use, the designer has to agree for such use and get paid.
+
+An open design value is increased with wider modification possibilities and transformation potentials into other products. Designs that typically live only a few years in the marketplace can live on and develop into new shapes and uses.
+
+Ronen Kadushin     
+September 2010    
+License: CC-BY
