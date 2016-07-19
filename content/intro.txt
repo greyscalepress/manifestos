@@ -10,10 +10,10 @@ Built with Markdown, Pandoc and TeX\\*
 Cover designed with Scribus
 
 Typefaces\\*
-Cover: 
+Cover:\\*
 Limousine, by OSP Foundry\\*  
-Interior: 
-HK Grotesk, by Alfredo Marco Pradil
+Interior:\\*
+HK Grotesk, by Alfredo Marco Pradil\\*
 Linux Libertine, by Philipp H. Poll
 
 Greyscale Press\\*
