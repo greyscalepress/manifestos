@@ -11,10 +11,10 @@ Cover designed with Scribus
 
 Typefaces\\*
 Cover:\\*
-Limousine, by OSP Foundry\\*  
+Crickx, by OSP Foundry\\*  
 Interior:\\*
 HK Grotesk, by Alfredo Marco Pradil\\*
 Linux Libertine, by Philipp H. Poll
 
 Greyscale Press\\*
-ISBN-13: 978-2-940561-02-5
+ISBN-13: 978-2-940561-04-9

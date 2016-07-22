@@ -4,14 +4,18 @@
 
 % Start Manifesto Template Customization
 
+% Layout : https://www.sharelatex.com/learn/Page_size_and_margins
+
+% Amazon: books from 151 - 300 pages require at least .5"  for the gutter (inside margin) and at least .25" for the outside, top and bottom margins.
+
 \usepackage[
   paperheight=6.875in,
   paperwidth=4.25in, 
-  top = 1.8cm, 
-  bottom = 1.4cm, 
-  left = 2cm, 
-  right = 1.2cm, 
-  footskip = 0.8cm, 
+  top = 0.71in, 
+  bottom = 0.55in, 
+  left = 0.8in, % = inner margin
+  right = 0.47in, % = outer margin
+  footskip = 0.31in, 
   marginparwidth = 0cm, 
   marginparsep = 0cm]{geometry}
   

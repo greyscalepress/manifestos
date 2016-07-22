@@ -12,7 +12,7 @@ Version 0.4 - June 2015
 Version 0.5 - September 2015    
 Version 0.6 - February 14 2016    
 Version 0.7 - February 18 2016     
-Version 0.8 (current) released April 02 2016
+Version 0.8 (current) released July 21 2016
 
 Greyscale Press
 

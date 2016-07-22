@@ -12,21 +12,23 @@ The present edition (as of February 2016) includes writings by VNS Matrix, Aaron
 
 ## Size: 
 
-4.25" x 6.88" (10.80 x 17.48 cm)
+4.25" x 6.875" (10.80 x 17.48 cm)
 Black & White on Cream paper
 140 pages
 
 ## BISAC Category:
 
-Political Science / Political Freedom
+Computers / Internet / General
 
 ## ISBN: 
 
 First version: 978-2-940561-00-1 (discarded)
 
-Current version: 978-2-940561-02-5    
+Version 0.1 to 0.7: 978-2-940561-02-5    
 ISBN-13: 9782940561025    
 ISBN-10: 2940561028
+
+Version 0.8 : 978-2-940561-04-9
 
 ## Pricing: 
 
