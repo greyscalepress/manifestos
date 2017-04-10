@@ -1,6 +1,6 @@
 # Open Web Index Manifesto
 
-## One search engine is not enough!
+## One search engine is not enough!
 
 Europe’s digital economy and civil society are virtually dependent on non-European businesses. This is particularly evident with regard to search engines, the cornerstone of our digital information infrastructure. Google currently dominates the market, leading to dependencies and economic damage that are no longer acceptable.
 

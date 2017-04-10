@@ -1,6 +1,6 @@
 # Xenofeminism
 
-## A politics for alienation
+## A politics for alienation
 
 ### ZERO
 
@@ -87,7 +87,7 @@ two-way dependency.  It names reason as an engine of feminist emancipation,
 and declares the right of everyone to speak as no one in particular. 
 
 
-### INTERRUPT
+### INTERRUPT
 
 
 #### 0x05 
@@ -165,17 +165,17 @@ anticipate its systemic condition responsively.
 XF rejects illusion and melancholy as political inhibitors.  Illusion, 
 as the blind presumption that the weak can prevail over the strong with no 
 strategic coordination, leads to unfulfilled promises and unmarshalled 
-drives.  This is a politics that, in wanting so much, ends up building so 
-little.  Without the labour of large-scale, collective social organisation, 
+drives. This is a politics that, in wanting so much, ends up building so 
+little. Without the labour of large-scale, collective social organisation, 
 declaring one's desire for global change is nothing more than wishful 
-thinking.  On the other hand, melancholy -- so endemic to the left -- teaches 
+thinking. On the other hand, melancholy -- so endemic to the left -- teaches 
 us that emancipation is an extinct species to be wept over and that blips of 
-negation are the best we can hope for.  At its worst, such an attitude 
+negation are the best we can hope for. At its worst, such an attitude 
 generates nothing but political lassitude, and at its best, installs an 
 atmosphere of pervasive despair which too often degenerates into factionalism
 and petty moralizing.  The malady of melancholia only compounds political
 inertia, and -- under the guise of being realistic -- relinquishes all 
-hope of calibrating the world otherwise.   It is against such maladies that 
+hope of calibrating the world otherwise. It is against such maladies that 
 XF innoculates. 
 
 
@@ -358,7 +358,7 @@ task of revision, release the reins and slacken that tension, and these
 filaments instantly dim. 
  
 
-### CARRY
+### CARRY
 
 
 #### 0x13 
@@ -458,7 +458,7 @@ intricate network of transits between these polarities.  As pragmatists, we
 invite contamination as a mutational driver between such frontiers. 
 
 
-### OVERFLOW
+### OVERFLOW
 
 
 #### 0x18 

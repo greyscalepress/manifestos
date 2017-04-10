@@ -21,7 +21,7 @@ Lo-fi production technologies are stable and free. They consist of and/or can re
 
 Despite their humble, decades-old base technology (plain text), innovative uses of lo-fi technologies can be remarkably hi-fi, as in the case of AJAX (whose most famous application may be Google’s Gmail service).
 
-## Lo-fi is LOFI
+## Lo-fi is LOFI
 
 “Lo-fi” describes a preferred set of production technologies that digital producers should strive to command, but as an acronym, LOFI outlines four principles of digital production that are essential for the advancement, extension, and long-term preservation of digital discourse:
 

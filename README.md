@@ -47,7 +47,7 @@ Installer for Mac OSX: BasicTeX
 
 The package I am using: basictex-20150613.pkg
 
-### flushend.sty
+### flushend.sty
 
 This is a Latex extension that we use. It needs to be installed.
 
@@ -55,7 +55,7 @@ The method I used to install it: running this in the command line:
 
 ```sudo tlmgr install sttools```
 
-### titlesec.sty
+### titlesec.sty
 
 Another package we need to install...
 
@@ -72,7 +72,7 @@ Command:
 ```sudo tlmgr install tocloft```
 
 
-## Troubleshooting
+## Troubleshooting
 
 Errors that can occur during compilation:
 

@@ -39,7 +39,7 @@ the most stunning art to grace this planet so far.
 
 Real-time 3d interactives can be an art form unto themselves.
 
-### 2. Be an author.
+### 2. Be an author.
 
 Do not hide behind the freedom of the user in an interactive environment to ignore your responsibility as a creator.
 This only ends in confirming cliches.
@@ -264,7 +264,7 @@ Interactivity design rule number one:
 the thing you do most in the game, should be the thing that is most interesting to do.
 i.e., If it takes a long time to walk between puzzles, the walk should be more interesting than the puzzles.
 
-### 7. Don’t make modern art.
+### 7. Don’t make modern art.
 
 Modern art tends to be ironical, cynical, self referential, afraid of beauty, afraid of meaning
 -other than the trendy discourse of the day-,
@@ -327,7 +327,7 @@ Use the language of your work to communicate its content.
 The audience should never be required to read the description.
 The work should communicate all that is required to understand it.
 
-### 9. Embrace technology.
+### 9. Embrace technology.
 
 Don’t be afraid of technology,
 and least of all, don’t make art about this fear.
@@ -352,7 +352,9 @@ Software is infinitely reproducable
 -the uniqueness is in the experience)
 Distribution of software is easy through the internet or portable data containers
 (no elitism; no museums, galleries, or festivals; from creator to audience without mediation -and from the audience back to the creator, through the same distribution media)
-10. Develop a punk economy.
+
+### 10. Develop a punk economy.
+
 Don’t shy away from competition with commercial developers.
 Your work offers something that theirs does not:
 originality of design,
@@ -382,7 +384,7 @@ cut out the middle man.
 Let the audience support your work.
 Communicate.
 
-### References
+### References
 
 Aristotle’s Six Elements of Drama 
 http://www.kyshakes.org/Resources/Aristotle.html
