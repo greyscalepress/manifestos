@@ -1,0 +1,20 @@
+A manifesto 
+
+
+http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
+
+
+# Hacker Questions
+
+* ~~Access to computers should be unlimited and total.~~ Who gets to use what I make? Who am I leaving out? How does what I make facilitate or hinder access?
+
+* ~~All information should be free.~~ What data am I using? Whose labor produced it and what biases and assumptions are built into it? Why choose this particular phenomenon for digitization/transcription? What do the data leave out?
+
+* ~~Mistrust authority - promote decentralization.~~ What systems of authority am I enacting through what I make? What systems do I rely on? How does what I make support other people?
+
+* ~~Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.~~ What kind of community am I assuming? What community do I invite through what I make? How are my own personal values reflected in what I make?
+
+
+
+***
+
