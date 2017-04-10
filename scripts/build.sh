@@ -7,7 +7,9 @@
 
 ## 1: We declare some variables
 
-INPUT="../content/meta.txt ../content/manifestos/*.*" ## ../content/intro.txt 
+INPUT="../content/meta.txt" ## ../content/intro.txt 
+INPUT="$INPUT ../content/manifestos/*.*" 
+
 TEMP="../temp/newfile.txt"
 TEMP2="../temp/newfile2.txt"
 
@@ -63,7 +65,7 @@ END {
 
 pandoc -f markdown --template=../templates/customV2 $TEMP \
 	--latex-engine=xelatex \
-    --variable mainfont="HKGrotesk-Regular" \
+    --variable mainfont="HK Grotesk Pro" \
     --variable boldfont="LinLibertineOB" \
     --variable italicfont="LinLibertineOI" \
     --variable fontsize=9pt \
