@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <title>Spine Calculator</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+        html {
+			background: #999;
+        }
+        body {
+        	margin: 1em;
+        	border: 1px solid black;
+        	padding: 1em;
+        	background: #ddd;
+        	font-family: Avenir, "PT Sans", sans-serif;
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+		input[type="number"] {
+			line-height: 2;
+			font-size: 100%;
+			padding-left: 0.5em;
+			width: 5em;
+		}
+
+		button {
+			font-size: 100%;
+			padding: 0.6em;
+			border: 1px solid green;
+			border-radius: 0.5em;
+			/* Rectangle: */
+			background-color: #A4EEBA;
+			box-shadow: 0px 0px 1em rgba(0,0,0,0.5) inset;
+			cursor: pointer;
+		}
+
+		button:hover {
+			background-color: #61CD81;
+		}
+
+		#result {
+			margin-top: 1em
+		}
+
+        </style>
+        <script type="text/javascript"></script>
+    </head>
+    <body>
+        <h1>CreateSpace Spine Calculator</h1>
+
+        <p>Enter the page count and obtain the spine width!</p>
+
+		<p>Page count: <input id="number" type="number" name=""></p>
+		<button>&rarr; Calculate</button>
+
+		<div id="result"></div>
+    </body>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script>
+    	( function( $ ) {
+
+
+			$( "button" ).on( "click", function() {
+
+				var pages = $( "#number" ).val();
+
+                var spine = pages * 0.0025;
+
+                var output = "Spine width: "+spine+" inch<br>";
+
+                var cover = 8.5 + spine;
+
+                // Cover width
+
+                var output = output + "Cover width: "+cover+" inch<br>";
+
+                // With bleed
+
+                var output = output + "With bleed: "+(cover + 0.25)+" inch<br>";
+
+                // start of right page
+
+                var output = output + "Start of right page: "+(4.25 + spine)+" inch<br>";
+
+    			$( "#result" ).html( output );
+
+			});
+
+
+
+    	} )( jQuery );
+    </script>
+</html>
