@@ -7,8 +7,8 @@
 
 ## 1: We declare some variables
 
-INPUT="../content/meta.txt" ## ../content/intro.txt 
-INPUT="$INPUT ../content/manifestos/*.*" 
+INPUT="../content/meta.txt" ## ../content/intro.txt
+INPUT="$INPUT ../content/manifestos/*.*"
 
 TEMP="../temp/newfile.txt"
 TEMP2="../temp/newfile2.txt"
@@ -46,7 +46,6 @@ END {
   print end
 }
 ' $INPUT > $TEMP
-
 
 ## awk '{print $0,"  x"}' $TEMP > $TEMP2
 ## mv $TEMP2 $TEMP
