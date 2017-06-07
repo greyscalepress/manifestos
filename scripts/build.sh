@@ -17,6 +17,14 @@ TEMP2="../temp/newfile2.txt"
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
 OUTPUT="../output/Manifestos_for_the_Internet_Age-"$TIMESTAMP".pdf"
 
+## Create the temp and output folder if they does not exist
+if [ ! -d "../temp" ]; then
+  mkdir ../temp
+fi
+if [ ! -d "../output" ]; then
+  mkdir ../output
+fi
+
 if [ ! -d ~/.fonts ]; then
   mkdir ~/.fonts
 fi
