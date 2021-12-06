@@ -49,7 +49,7 @@ January 8, 2015
 
 1. The Internet is not made of copper wire, glass fiber, radio waves, or even tubes.
 2. The devices we use to connect to the Internet are not the Internet.
-3. Verizon, Comcast, AT&T, Deutsche Telekom, and 中国电信 do not own the Internet. Facebook, Google, and Amazon are not the Net’s monarchs, nor yet are their minions or algorithms. Not the governments of the Earth nor their Trade Associations have the consent of the networked to bestride the Net as sovereigns.
+3. Verizon, Comcast, AT&T, Deutsche Telekom, and China Telecom do not own the Internet. Facebook, Google, and Amazon are not the Net’s monarchs, nor yet are their minions or algorithms. Not the governments of the Earth nor their Trade Associations have the consent of the networked to bestride the Net as sovereigns.
 4. We hold the Internet in common and as unowned.
 5. From us and from what we have built on it does the Internet derive all its value.
 6. The Net is of us, by us, and for us.

@@ -71,8 +71,8 @@ END {
 ## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
 
 pandoc -f markdown --template=../templates/customV2 $TEMP \
-	--latex-engine=xelatex \
-    --variable mainfont="HK Grotesk Pro" \
+	--pdf-engine=xelatex \
+    --variable mainfont="HKGrotesk-Regular" \
     --variable boldfont="LinLibertineOB" \
     --variable italicfont="LinLibertineOI" \
     --variable fontsize=9pt \
