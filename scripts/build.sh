@@ -16,6 +16,7 @@ TEMP2="../temp/newfile2.txt"
 ##TIMESTAMP=$(date +"%s")
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
 OUTPUT="../output/Manifestos_for_the_Internet_Age-"$TIMESTAMP".pdf"
+OUTPUTEPUB="../output/Manifestos_for_the_Internet_Age-"$TIMESTAMP".epub"
 
 ## Create the temp and output folder if they does not exist
 if [ ! -d "../temp" ]; then
@@ -83,5 +84,19 @@ pandoc -f markdown --template=../templates/customV2 $TEMP \
     --listings \
     --include-before-body=../content/intro.txt \
     -o $OUTPUT
+
+pandoc -f markdown --template=../templates/custom $TEMP \
+	--pdf-engine=xelatex \
+    --variable mainfont="HKGrotesk-Regular" \
+    --variable boldfont="LinLibertineOB" \
+    --variable italicfont="LinLibertineOI" \
+    --variable fontsize=9pt \
+    --variable urlcolor=black \
+    --variable linkcolor=black \
+    --variable documentclass=book \
+    --toc --toc-depth=1 \
+    --listings \
+    --include-before-body=../content/intro.txt \
+    -o $OUTPUTEPUB
 
 ## End of file
