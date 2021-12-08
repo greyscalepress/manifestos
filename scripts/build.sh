@@ -97,6 +97,7 @@ pandoc -f markdown --template=../templates/custom $TEMP \
     --toc --toc-depth=1 \
     --listings \
     --include-before-body=../content/intro.txt \
+    --to=epub2 \
     -o $OUTPUTEPUB
 
 ## End of file
